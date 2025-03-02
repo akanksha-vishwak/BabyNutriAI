@@ -13,10 +13,10 @@ This project is designed for **scalability** and can be integrated into mobile a
 ---
 
 ## How It Works  
-1️. Parents enter **baby’s age & current diet**.  
-2️. AI **retrieves real-world nutrition guidelines** and suggests meals.  
-3️. The chatbot **remembers past meals** and adjusts future recommendations.  
-4️. Data is **stored & analyzed** for personalized insights.  
+1. Parents enter **baby’s age & current diet**.  
+2. AI **retrieves real-world nutrition guidelines** and suggests meals.  
+3. The chatbot **remembers past meals** and adjusts future recommendations.  
+4. Data is **stored & analyzed** for personalized insights.  
 
 ---
 
