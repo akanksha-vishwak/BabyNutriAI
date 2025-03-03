@@ -79,7 +79,7 @@ Here’s what will actually help you get noticed without wasting time on hype:
     Basic chatbot logic using OpenAI's API.
     GitHub repo updated with your progress.
 
-📌 Day 1: Setting Up FastAPI & First API Endpoint
+**📌 Day 1: Setting Up FastAPI & First API Endpoint**
 
 ⏳ Time Estimate: ~2.5 hours
 ✅ Step 1: Project Folder Setup & Environment (30 min)
@@ -226,7 +226,7 @@ curl -X 'POST' 'http://127.0.0.1:8000/recommend' \
 -d '{"age": "8", "diet": "mashed fruits and rice"}'
 
 ✅ End of Day 2: Your AI chatbot can now generate baby food suggestions! 🚀
-📌 Day 3: Testing & Deploying the API
+**📌 Day 3: Testing & Deploying the API**
 
 ⏳ Time Estimate: ~3 hours
 ✅ Step 1: Improve API Response Formatting (1 hour)
@@ -257,50 +257,11 @@ git push origin main
 ✔ Day 3: Improved API response & pushed final code.
 
 Would you like help with deploying the API next (e.g., Render, Hugging Face Spaces)? 🚀
-You said:
-"FastAPI Quickstart: https://fastapi.tiangolo.com/ (Read the "First Steps" section)" I do not see first step section 
-ChatGPT said:
-
-You're right! The "First Steps" section is now labeled as "Tutorial - User Guide" on the official FastAPI website.
-📌 Corrected Learning Resource for FastAPI Quickstart
-
-📖 FastAPI Quickstart Guide → https://fastapi.tiangolo.com/tutorial/
-
-🔹 What to do?
-
-    Open https://fastapi.tiangolo.com/tutorial/
-    Start with "First Steps" (this is now part of the "Tutorial - User Guide").
-    Follow the examples to create a basic FastAPI app and run it.
-
-🔹 Direct Steps from the FastAPI Tutorial
-
-If you can't access the website easily, here’s a quick summary of what it says:
-
-1️⃣ Install FastAPI & Uvicorn
-
-pip install fastapi uvicorn
-
-2️⃣ Create app.py with a simple API
-
-from fastapi import FastAPI
-
-app = FastAPI()
-
-@app.get("/")
-def home():
-    return {"message": "Hello from FastAPI!"}
-
-3️⃣ Run the API
-
-uvicorn app:app --reload
-
-4️⃣ Open this in your browser:
-📌 Docs Interface: http://127.0.0.1:8000/docs
 
 📌 Next Steps (Days 4-6): RAG, Memory & Deployment
 
 Now, let’s complete the missing industry-relevant AI skills:
-🟢 Day 4: Add Memory (Chatbot Remembers Past Conversations)
+**🟢 Day 4: Add Memory (Chatbot Remembers Past Conversations)**
 
 📌 Why? Right now, the AI forgets previous recommendations. Adding memory helps it provide consistent nutrition plans.
 ✅ What You'll Do:
@@ -311,7 +272,7 @@ Now, let’s complete the missing industry-relevant AI skills:
 📚 Learning Resources:
 
 📖 LangChain Memory Docs → https://python.langchain.com/docs/modules/memory/
-🟢 Day 5: Implement RAG (Factual Data Retrieval for AI Responses)
+**🟢 Day 5: Implement RAG (Factual Data Retrieval for AI Responses)**
 
 📌 Why?
 
@@ -328,7 +289,7 @@ Now, let’s complete the missing industry-relevant AI skills:
 
 📖 FAISS Vector Search Docs → https://github.com/facebookresearch/faiss
 📖 LangChain RAG Tutorial → https://python.langchain.com/docs/modules/data_connection/vectorstores/
-🟢 Day 6: Deploy the AI Chatbot Online
+**🟢 Day 6: Deploy the AI Chatbot Online**
 
 📌 Why? So your API is accessible from anywhere (instead of only working on your local machine).
 ✅ What You'll Do:
@@ -350,3 +311,25 @@ Day |	Feature	| Skills Learned
 🟢 Day 4 |	Add Memory |	LangChain, Context Retention
 🟢 Day 5 |	Implement RAG |	FAISS, Vector Search, Fact-Based AI
 🟢 Day 6 |	Deploy API |	Cloud Hosting, Docker
+
+**Full Plan**
+
+🚀 Finalized Project Plan: NutriBabyAI – AI-Powered Baby Nutrition Assistant
+
+📌 Goal: Build a conversational AI chatbot that helps parents with baby food recommendations.
+✅ The user interacts only in natural language (NL → NL).
+✅ Internally, we use structured AI workflows to retrieve and generate responses.
+✅ The project follows industry-standard AI practices (RAG, APIs, CI/CD).
+✅ The end goal is to deploy the chatbot so it is accessible online.
+📌 Project Breakdown & Study Plan
+
+💡 Total Estimated Time: ~3 Weeks (6-8 hours per week)
+Phase	What We’ll Do	Learning Resources	Estimated Time
+Phase 1: FastAPI Setup & Basic API	Set up FastAPI and create a simple API that responds to user input.	📖 FastAPI Docs: https://fastapi.tiangolo.com/	4 hours
+Phase 2: Integrate OpenAI API	Connect GPT-4 to generate baby food recommendations based on user input.	📖 OpenAI API Docs: https://platform.openai.com/docs/	4 hours
+Phase 3: Extract Structured Data from NL	Teach the chatbot to extract "baby age" & "ingredients" from free-text queries.	📖 Prompt Engineering Guide: https://platform.openai.com/docs/guides/prompt-engineering	6 hours
+Phase 4: RAG (Retrieval-Augmented Generation) with FAISS	Store real baby food recipes in a vector database and retrieve them dynamically.	📖 FAISS Docs: https://github.com/facebookresearch/faiss	8 hours
+Phase 5: Improve Response Formatting	Ensure that the chatbot gives structured, clear, and well-formatted answers.	📖 OpenAI Output Formatting: https://platform.openai.com/docs/guides/text-generation	4 hours
+Phase 6: Add Memory (Keep Track of Past Conversations)	Implement LangChain memory so the chatbot avoids repeating the same suggestions.	📖 LangChain Memory Docs: https://python.langchain.com/docs/modules/memory/	6 hours
+Phase 7: Deploy the API (Make it Publicly Accessible)	Deploy the chatbot using Render or Hugging Face Spaces.	📖 FastAPI Deployment Guide: https://render.com/docs/deploy-fastapi	6 hours
+Phase 8: Implement CI/CD (Automate Deployment & Testing)	Set up GitHub Actions so that every push updates the chatbot automatically.	📖 GitHub Actions Docs: https://github.com/features/actions	8 hours
