@@ -296,3 +296,57 @@ uvicorn app:app --reload
 
 4️⃣ Open this in your browser:
 📌 Docs Interface: http://127.0.0.1:8000/docs
+
+📌 Next Steps (Days 4-6): RAG, Memory & Deployment
+
+Now, let’s complete the missing industry-relevant AI skills:
+🟢 Day 4: Add Memory (Chatbot Remembers Past Conversations)
+
+📌 Why? Right now, the AI forgets previous recommendations. Adding memory helps it provide consistent nutrition plans.
+✅ What You'll Do:
+
+1️⃣ Install LangChain memory module
+2️⃣ Modify the API to remember past meals
+3️⃣ Test the chatbot with multiple interactions
+📚 Learning Resources:
+
+📖 LangChain Memory Docs → https://python.langchain.com/docs/modules/memory/
+🟢 Day 5: Implement RAG (Factual Data Retrieval for AI Responses)
+
+📌 Why?
+
+    Right now, the AI relies only on GPT-4, which can hallucinate or provide inaccurate answers.
+    RAG allows AI to fetch real baby nutrition facts before answering.
+
+✅ What You'll Do:
+
+1️⃣ Store real baby nutrition data (from sources like WHO, pediatric guidelines) in a file/database.
+2️⃣ Convert this data into embeddings (vector representations of text).
+3️⃣ Use FAISS (a vector search engine) to retrieve relevant information.
+4️⃣ Modify the API to fetch nutrition facts before calling GPT-4.
+📚 Learning Resources:
+
+📖 FAISS Vector Search Docs → https://github.com/facebookresearch/faiss
+📖 LangChain RAG Tutorial → https://python.langchain.com/docs/modules/data_connection/vectorstores/
+🟢 Day 6: Deploy the AI Chatbot Online
+
+📌 Why? So your API is accessible from anywhere (instead of only working on your local machine).
+✅ What You'll Do:
+
+1️⃣ Choose a deployment platform:
+
+    Render (Free, easy for APIs) → https://render.com/
+    Hugging Face Spaces (For AI apps) → https://huggingface.co/spaces
+    2️⃣ Create a Dockerfile (optional, for portability).
+    3️⃣ Deploy & test the API online.
+
+📚 Learning Resources:
+
+📖 Deploy FastAPI on Render → https://render.com/docs/deploy-fastapi
+📖 FastAPI + Docker Guide → https://fastapi.tiangolo.com/deployment/docker/
+🚀 Summary: Full Learning Plan
+Day |	Feature	| Skills Learned
+✅ Day 1-3 |	FastAPI + OpenAI |	API Development, AI Integration
+🟢 Day 4 |	Add Memory |	LangChain, Context Retention
+🟢 Day 5 |	Implement RAG |	FAISS, Vector Search, Fact-Based AI
+🟢 Day 6 |	Deploy API |	Cloud Hosting, Docker
