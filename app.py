@@ -11,7 +11,7 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 
 app = FastAPI()
 
-# Define a request model
+# Needed to parse the request body instead of a query parameter
 class ChatRequest(BaseModel):
     user_message: str
 
@@ -24,13 +24,24 @@ def chat_with_bot(request: ChatRequest):
     """
     Accepts user input and generates baby food recommendations using GPT-4.
     """
-    
-    response = client.chat.completions.create(
-        model="gpt-4-turbo",  # Use "gpt-3.5-turbo" if needed
-        messages=[
-            {"role": "system", "content": "You are a baby nutrition assistant. Provide healthy meal recommendations based on age and available ingredients."},
-            {"role": "user", "content": request.user_message}
-        ]
-    )
 
-    return {"response": response.choices[0].message.content}
+    extraction_prompt = f"""
+    Extract structured data from the following user message:
+    "{request.user_message}"
+
+    Return a JSON object with:
+    - "age": Baby's age in months (if mentioned, otherwise null).
+    - "ingredients": A list of food ingredients mentioned (if any, otherwise empty list).
+    - "query_type": Either "meal_recommendation" (if the user wants a food suggestion) or "general_advice" (if they are asking about baby food guidelines).
+    """
+
+    response = client.chat.completions.create(
+        model="gpt-4-turbo",
+        messages=[
+            {"role": "system", "content": "Extract structured data from free-text input."},
+            {"role": "user", "content": extraction_prompt}
+        ]
+    )   
+    extracted_info = response.choices[0].message.content.strip()
+    return {"structured_data": extracted_info}
+
