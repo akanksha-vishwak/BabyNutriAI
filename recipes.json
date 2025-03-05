@@ -1,0 +1,132 @@
+{
+    "recipes": [
+        {
+            "name": "Apple Puree",
+            "ingredients": [
+                "2 apples",
+                "Water"
+            ],
+            "instructions": [
+                "Peel, core, and chop the apples.",
+                "Place the apples in a saucepan with enough water to cover them.",
+                "Cook over medium heat until the apples are soft.",
+                "Puree the apples in a blender or food processor until smooth."
+            ],
+            "age": "6+ months"
+        },
+        {
+            "name": "Carrot Puree",
+            "ingredients": [
+                "4 carrots",
+                "Water"
+            ],
+            "instructions": [
+                "Peel and chop the carrots.",
+                "Place the carrots in a saucepan with enough water to cover them.",
+                "Cook over medium heat until the carrots are soft.",
+                "Puree the carrots in a blender or food processor until smooth."
+            ],
+            "age": "6+ months"
+        },
+        {
+            "name": "Banana Mash",
+            "ingredients": [
+                "1 ripe banana"
+            ],
+            "instructions": [
+                "Peel the banana.",
+                "Mash the banana with a fork until smooth."
+            ],
+            "age": "6+ months"
+        },
+        {
+            "name": "Avocado Puree",
+            "ingredients": [
+                "1 ripe avocado"
+            ],
+            "instructions": [
+                "Cut the avocado in half and remove the pit.",
+                "Scoop out the flesh and mash with a fork until smooth."
+            ],
+            "age": "6+ months"
+        },
+        {
+            "name": "Banana Yogurt Mash",
+            "age": "8",
+            "ingredients": ["banana", "yogurt"],
+            "instructions": "Mash a banana and mix with yogurt for a smooth puree."
+          },
+          {
+            "name": "Oatmeal with Banana",
+            "age": "8",
+            "ingredients": ["banana", "oats"],
+            "instructions": "Cook oats and mix with mashed banana."
+          },
+          {
+            "name": "Carrot Puree",
+            "age": "6",
+            "ingredients": ["carrot"],
+            "instructions": "Steam carrots until soft, then blend into a puree."
+          },
+          {
+            "name": "Sweet Potato Mash",
+            "age": "6",
+            "ingredients": ["sweet potato"],
+            "instructions": "Boil or steam a sweet potato until soft, then mash it."
+          },
+          {
+            "name": "Avocado Banana Blend",
+            "age": "6",
+            "ingredients": ["avocado", "banana"],
+            "instructions": "Mash banana and avocado together for a creamy blend."
+          },
+          {
+            "name": "Rice Cereal with Apple",
+            "age": "6",
+            "ingredients": ["rice cereal", "apple"],
+            "instructions": "Mix rice cereal with finely mashed apple for a smooth texture."
+          },
+          {
+            "name": "Chicken and Carrot Puree",
+            "age": "8",
+            "ingredients": ["chicken", "carrot"],
+            "instructions": "Boil chicken and carrots until soft, then blend together."
+          },
+          {
+            "name": "Lentil Soup",
+            "age": "10",
+            "ingredients": ["lentils", "carrot", "tomato"],
+            "instructions": "Cook lentils, carrots, and tomatoes until soft, then mash lightly."
+          },
+          {
+            "name": "Egg and Avocado Toast",
+            "age": "12",
+            "ingredients": ["egg", "avocado", "whole wheat bread"],
+            "instructions": "Scramble eggs and spread on toasted bread with mashed avocado."
+          },
+          {
+            "name": "Pasta with Tomato Sauce",
+            "age": "12",
+            "ingredients": ["pasta", "tomato", "bell pepper"],
+            "instructions": "Cook pasta and blend tomatoes and bell peppers for a simple sauce."
+          },
+          {
+            "name": "Chicken and Rice",
+            "age": "12",
+            "ingredients": ["chicken", "rice", "zucchini"],
+            "instructions": "Boil chicken and rice, then add zucchini for a complete meal."
+          },
+          {
+            "name": "Salmon and Sweet Potato",
+            "age": "12",
+            "ingredients": ["salmon", "sweet potato", "broccoli"],
+            "instructions": "Bake salmon and sweet potato, then steam broccoli for a nutritious meal."
+          },
+          {
+            "name": "Beef and Vegetable Stew",
+            "age": "12",
+            "ingredients": ["beef", "potato", "carrot", "onion"],
+            "instructions": "Cook beef with vegetables until tender for a hearty stew."
+          }
+    ]
+}

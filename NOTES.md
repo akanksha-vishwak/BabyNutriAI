@@ -1,3 +1,24 @@
+# Things I learned:
+
+1. Switched to Request Body instead of query parameter
+    (I had to use `def chat_with_bot(request: ChatRequest):` instead of `def chat_with_bot(usert_message: str):`)
+    - FastAPI allows data to be sent in two ways:
+        1️⃣ Query Parameters (/chat?user_message=Hello)
+
+        Passed directly in the URL.
+        Good for short, simple inputs like filters or settings.
+
+        2️⃣ Request Body (JSON: {"user_message": "Hello"})
+
+        Passed inside the request payload (more structured).
+        Good for complex inputs (like user messages, objects, multiple fields).
+
+2. Extract the information so that GPT-4 sees a controlled version which improves response accuracy and also prepare for RAG
+
+3. 
+
+---
+
 # Want to Learn the following
 
 Companies today are hyping AI integration, especially LLMs (Large Language Models) like ChatGPT, and they want to know if candidates can use, build, and deploy AI-powered applications.
@@ -65,252 +86,6 @@ Here’s what will actually help you get noticed without wasting time on hype:
         Deploy your chatbot as a real-world API instead of a local script.
 
 ---
-
-# Plan
-
-🚀 3-Day Plan: FastAPI & AI Chatbot for Baby Nutrition (NutriBabyAI)
-
-📌 Goal: Set up a FastAPI-powered chatbot that provides baby food recommendations and is fully tested & committed to GitHub within 3 days.
-
-✅ By the end of Day 3, you'll have:
-
-    A working FastAPI backend.
-    Deployed API endpoints that handle requests.
-    Basic chatbot logic using OpenAI's API.
-    GitHub repo updated with your progress.
-
-**📌 Day 1: Setting Up FastAPI & First API Endpoint**
-
-⏳ Time Estimate: ~2.5 hours
-✅ Step 1: Project Folder Setup & Environment (30 min)
-
-📚 Learning Resources:
-
-    📖 FastAPI Quickstart: https://fastapi.tiangolo.com/ (Read the "First Steps" section)
-    📖 Python Virtual Environments: https://realpython.com/python-virtual-environments-a-primer/ (Why & how to use them?)
-
-📌 Tasks:
-1️⃣ Open VS Code & Clone Repo:
-
-git clone https://github.com/YOUR-USERNAME/NutriBabyAI.git
-cd NutriBabyAI
-code .
-
-2️⃣ Create a Virtual Environment & Activate It:
-
-python -m venv venv
-source venv/bin/activate  # Mac/Linux
-venv\Scripts\activate  # Windows
-
-3️⃣ Install FastAPI & Uvicorn:
-
-pip install fastapi uvicorn
-
-✅ Step 2: Create Your First API Endpoint (1 hour)
-
-📚 Learning Resources:
-
-    📖 FastAPI Routes & Endpoints: https://fastapi.tiangolo.com/tutorial/first-steps/
-    📖 HTTP Methods in FastAPI: https://fastapi.tiangolo.com/tutorial/body/
-
-📌 Tasks:
-1️⃣ Create app.py inside your project folder.
-2️⃣ Write your first API route (/) in app.py:
-
-from fastapi import FastAPI
-
-app = FastAPI()
-
-@app.get("/")
-def home():
-    return {"message": "Welcome to NutriBabyAI!"}
-
-3️⃣ Run the API locally:
-
-uvicorn app:app --reload
-
-4️⃣ Test it in your browser: Open http://127.0.0.1:8000/docs
-✅ Step 3: Commit Your First Code to GitHub (30 min)
-
-📚 Learning Resources:
-
-    📖 Git Basics: https://www.atlassian.com/git/tutorials/setting-up-a-repository
-
-📌 Tasks:
-1️⃣ Create a .gitignore file in your project folder & add:
-
-venv/
-__pycache__/
-.env
-
-2️⃣ Commit & Push to GitHub:
-
-git add .
-git commit -m "Initial FastAPI setup"
-git push origin main
-
-✅ End of Day 1: You now have FastAPI running & GitHub updated! 🎉
-📌 Day 2: Implement Chatbot Logic with OpenAI API
-
-⏳ Time Estimate: ~3 hours
-✅ Step 1: Install OpenAI API & Set Up API Key (30 min)
-
-📚 Learning Resources:
-
-    📖 Using OpenAI API in Python: https://platform.openai.com/docs/
-    📖 Environment Variables for API Keys: https://towardsdatascience.com/how-to-hide-your-api-keys-in-python-fb2e1a61b0a0
-
-📌 Tasks:
-1️⃣ Install OpenAI SDK:
-
-pip install openai
-
-2️⃣ Store API Key Securely in .env File:
-
-    Create a .env file:
-
-OPENAI_API_KEY=your-api-key-here
-
-Install python-dotenv to load environment variables:
-
-pip install python-dotenv
-
-Modify app.py to load the key:
-
-    import os
-    from dotenv import load_dotenv
-    load_dotenv()
-    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
-✅ Step 2: Create a Baby Nutrition Chatbot Route (1.5 hours)
-
-📚 Learning Resources:
-
-    📖 FastAPI Request Body Handling: https://fastapi.tiangolo.com/tutorial/body/
-    📖 Calling OpenAI GPT API: https://platform.openai.com/docs/guides/text-generation
-
-📌 Tasks:
-1️⃣ Modify app.py to accept user input and return AI-generated food recommendations:
-
-from fastapi import FastAPI
-import openai
-import os
-
-app = FastAPI()
-
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
-@app.post("/recommend")
-def recommend_nutrition(data: dict):
-    baby_age = data.get("age", "unknown")
-    baby_diet = data.get("diet", "unknown")
-
-    response = openai.ChatCompletion.create(
-        model="gpt-4-turbo",
-        messages=[
-            {"role": "system", "content": "You are a baby nutrition assistant. Provide accurate meal recommendations."},
-            {"role": "user", "content": f"My baby is {baby_age} months old and eats {baby_diet}. What should I feed next?"}
-        ]
-    )
-
-    return {"recommendation": response["choices"][0]["message"]["content"]}
-
-2️⃣ Run the API Again:
-
-uvicorn app:app --reload
-
-3️⃣ Test the Chatbot API with cURL:
-
-curl -X 'POST' 'http://127.0.0.1:8000/recommend' \
--H 'Content-Type: application/json' \
--d '{"age": "8", "diet": "mashed fruits and rice"}'
-
-✅ End of Day 2: Your AI chatbot can now generate baby food suggestions! 🚀
-**📌 Day 3: Testing & Deploying the API**
-
-⏳ Time Estimate: ~3 hours
-✅ Step 1: Improve API Response Formatting (1 hour)
-
-📌 Tasks:
-1️⃣ Modify the chatbot to return structured meal plans:
-
-return {
-    "age": baby_age,
-    "current_diet": baby_diet,
-    "recommended_meals": response["choices"][0]["message"]["content"]
-}
-
-✅ Now the response is structured for better readability!
-✅ Step 2: Push Final Changes to GitHub (30 min)
-
-📌 Tasks:
-
-git add .
-git commit -m "Implemented baby nutrition chatbot"
-git push origin main
-
-✅ Now your chatbot is live in your GitHub repo!
-🎯 Summary of 3-Day Plan
-
-✔ Day 1: FastAPI setup & first API endpoint.
-✔ Day 2: Integrated OpenAI API for chatbot logic.
-✔ Day 3: Improved API response & pushed final code.
-
-Would you like help with deploying the API next (e.g., Render, Hugging Face Spaces)? 🚀
-
-📌 Next Steps (Days 4-6): RAG, Memory & Deployment
-
-Now, let’s complete the missing industry-relevant AI skills:
-**🟢 Day 4: Add Memory (Chatbot Remembers Past Conversations)**
-
-📌 Why? Right now, the AI forgets previous recommendations. Adding memory helps it provide consistent nutrition plans.
-✅ What You'll Do:
-
-1️⃣ Install LangChain memory module
-2️⃣ Modify the API to remember past meals
-3️⃣ Test the chatbot with multiple interactions
-📚 Learning Resources:
-
-📖 LangChain Memory Docs → https://python.langchain.com/docs/modules/memory/
-**🟢 Day 5: Implement RAG (Factual Data Retrieval for AI Responses)**
-
-📌 Why?
-
-    Right now, the AI relies only on GPT-4, which can hallucinate or provide inaccurate answers.
-    RAG allows AI to fetch real baby nutrition facts before answering.
-
-✅ What You'll Do:
-
-1️⃣ Store real baby nutrition data (from sources like WHO, pediatric guidelines) in a file/database.
-2️⃣ Convert this data into embeddings (vector representations of text).
-3️⃣ Use FAISS (a vector search engine) to retrieve relevant information.
-4️⃣ Modify the API to fetch nutrition facts before calling GPT-4.
-📚 Learning Resources:
-
-📖 FAISS Vector Search Docs → https://github.com/facebookresearch/faiss
-📖 LangChain RAG Tutorial → https://python.langchain.com/docs/modules/data_connection/vectorstores/
-**🟢 Day 6: Deploy the AI Chatbot Online**
-
-📌 Why? So your API is accessible from anywhere (instead of only working on your local machine).
-✅ What You'll Do:
-
-1️⃣ Choose a deployment platform:
-
-    Render (Free, easy for APIs) → https://render.com/
-    Hugging Face Spaces (For AI apps) → https://huggingface.co/spaces
-    2️⃣ Create a Dockerfile (optional, for portability).
-    3️⃣ Deploy & test the API online.
-
-📚 Learning Resources:
-
-📖 Deploy FastAPI on Render → https://render.com/docs/deploy-fastapi
-📖 FastAPI + Docker Guide → https://fastapi.tiangolo.com/deployment/docker/
-🚀 Summary: Full Learning Plan
-Day |	Feature	| Skills Learned
-✅ Day 1-3 |	FastAPI + OpenAI |	API Development, AI Integration
-🟢 Day 4 |	Add Memory |	LangChain, Context Retention
-🟢 Day 5 |	Implement RAG |	FAISS, Vector Search, Fact-Based AI
-🟢 Day 6 |	Deploy API |	Cloud Hosting, Docker
 
 **Full Plan**
 
