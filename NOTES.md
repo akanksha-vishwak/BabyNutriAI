@@ -1,3 +1,10 @@
+### Want to do:
+improve the quality of input by reading NHS 
+can read a text file?
+response to simple "hi" is a big reply. handle greetings and questions 
+If the user mentions different ages in multiple queries, the chatbot does not remember the last mentioned age.
+
+
 ### Things I learned:
 
 1. Switched to Request Body instead of query parameter
