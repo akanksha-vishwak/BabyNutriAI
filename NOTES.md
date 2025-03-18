@@ -1,4 +1,4 @@
-# Things I learned:
+### Things I learned:
 
 1. Switched to Request Body instead of query parameter
     (I had to use `def chat_with_bot(request: ChatRequest):` instead of `def chat_with_bot(usert_message: str):`)
