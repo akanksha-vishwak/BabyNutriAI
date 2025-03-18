@@ -1,0 +1,25 @@
+name: CI/CD for BabyNutriAI
+
+on:
+  push:
+    branches:
+      - main  # Runs the workflow when pushing to the main branch
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - name: Build & Push Docker Image
+        run: |
+          docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/babynutriai .
+          docker push ${{ secrets.DOCKERHUB_USERNAME }}/babynutriai:latest
