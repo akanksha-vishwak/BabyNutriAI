@@ -25,3 +25,26 @@ docker tag babynutriai aksvishwak/babynutriai
 docker push aksvishwak/babynutriai 
 ```
 docker login can be successful but can throw the error in pushing. Logout and login again.
+
+
+Learnings from NHS Website Content Integration
+
+## NHS Website Content Integration
+
+### API Access vs. Public Website
+
+- The NHS Website Content API provides structured health data (conditions, symptoms, etc.).
+- Most endpoints are open-access.
+- No API key is required for read-only access.
+- JSON responses are identical with or without authentication.
+
+### API Key and App Registration
+
+- Successfully registered the BabyNutriAI app and received API key and secret.
+- API key is not necessary for public content but may be needed for other restricted services in the future.
+
+### Public Website Scraping
+
+- Many baby-related articles (e.g., weaning, first foods) are available at `https://www.nhs.uk/conditions/...`
+- These can be accessed using basic HTTP requests.
+- Content can be parsed using tools like `BeautifulSoup` or `Trafilatura`.
