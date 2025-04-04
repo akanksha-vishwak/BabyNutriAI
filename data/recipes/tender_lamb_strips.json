@@ -1,0 +1,38 @@
+[
+  {
+    "chunk": "Tender lamb strips recipe hese tender pieces of lamb make easy-to-hold strips so your baby can explore the flavour and texture of meat. Age: 6 months or older Prep: 2 mins Cook: 15 mins Portions: 4 (approx) Ingredients - 1 lamb steak Method Preheat the grill on high setting. Grill the lamb for around 6 minutes on both sides until cooked through (no pink meat) and tender. Allow the lamb to cool, then remove any fat and cut into finger-length strips. Serve a quarter of the lamb strips as a finger food. Refrigerate any leftovers or use them in a meal or sandwich. You can freeze any remaining lamb steaks. You could try different meats such as chicken, pork or beef strips instead of lamb – try our lemony chicken strips recipe. Weaning tip Give your baby sips of water with their meals - rather than sweet drinks which can",
+    "chunk_id": "tender_lamb_strips_0",
+    "title": "Tender Lamb Strips",
+    "description": "hese tender pieces of lamb make easy-to-hold strips so your baby can explore the flavour and texture of meat.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/tender-lamb-strips/",
+    "scraped_at": "2025-04-04T07:45:08.797130",
+    "tokens": 195,
+    "age_range": "6 months or older",
+    "prep_time": "2 mins",
+    "cook_time": "15 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 lamb steak"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "beef strips instead of lamb – try our lemony chicken strips recipe. Weaning tip Give your baby sips of water with their meals - rather than sweet drinks which can cause tooth decay. More in recipe and meal ideas",
+    "chunk_id": "tender_lamb_strips_1",
+    "title": "Tender Lamb Strips",
+    "description": "hese tender pieces of lamb make easy-to-hold strips so your baby can explore the flavour and texture of meat.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/tender-lamb-strips/",
+    "scraped_at": "2025-04-04T07:45:08.797149",
+    "tokens": 50,
+    "age_range": "6 months or older",
+    "prep_time": "2 mins",
+    "cook_time": "15 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 lamb steak"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

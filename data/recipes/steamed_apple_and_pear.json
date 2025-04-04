@@ -1,0 +1,40 @@
+[
+  {
+    "chunk": "Steamed apple and pear recipe Warm steamed apple and pears, cut into finger-sized sticks. A great way to introduce finger foods to your baby. Age: 6 months or older Prep: 5 mins Cook: 10 mins Portions: 4 (approx) Ingredients - 1/2 medium apple, peeled and cored - 1/2 small pear, peeled Method Chop the apple and pear into finger-sized wedges, big enough for baby to grasp, with half sticking out the top of their hand. Bring a pan of water to the boil and steam the pear fingers for 8 minutes. Add the apple fingers and cook for a further 2 minutes until fruit has softened (but not collapsed). Allow to cool before serving. Any unused fruit will make a great snack for other members of the family, just chop it up into bite-sized chunks. Try serving with full-fat yoghurt and a sprinkling of cinnamon over the fruit for extra",
+    "chunk_id": "steamed_apple_and_pear_0",
+    "title": "Steamed Apple And Pear",
+    "description": "Warm steamed apple and pears, cut into finger-sized sticks. A great way to introduce finger foods to your baby.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/steamed-apple-and-pear/",
+    "scraped_at": "2025-04-04T07:45:14.733077",
+    "tokens": 195,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "10 mins",
+    "portions": 4,
+    "ingredients": [
+      "1/2 medium apple, peeled and cored",
+      "1/2 small pear, peeled"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "great snack for other members of the family, just chop it up into bite-sized chunks. Try serving with full-fat yoghurt and a sprinkling of cinnamon over the fruit for extra flavour. Weaning tip Try mashed and finger foods as soon as your baby is ready, to help them learn to chew and swallow solid foods.",
+    "chunk_id": "steamed_apple_and_pear_1",
+    "title": "Steamed Apple And Pear",
+    "description": "Warm steamed apple and pears, cut into finger-sized sticks. A great way to introduce finger foods to your baby.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/steamed-apple-and-pear/",
+    "scraped_at": "2025-04-04T07:45:14.733095",
+    "tokens": 71,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "10 mins",
+    "portions": 4,
+    "ingredients": [
+      "1/2 medium apple, peeled and cored",
+      "1/2 small pear, peeled"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

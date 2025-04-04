@@ -1,0 +1,21 @@
+[
+  {
+    "chunk": "Pineapple slices with plain yoghurt recipe Introduce your baby to juicy pineapple slices, served with plain full-fat yoghurt. A great snack for older children in the family too. Age: 6 months or older Prep: 2 mins Portions: 1 Ingredients - 1 small tin pineapple slices (in juice) - 1 tbsp plain full fat yoghurt (optional) Method Open the tinned pineapple, drain juice and put one pineapple ring in a bowl. Cut the pineapple ring in half so it's easier for your baby to pick up. Add the yoghurt to the bowl and serve. Information: You can use fresh or tinned pineapple. If using tinned fruit, remember to choose juice rather than syrup.",
+    "chunk_id": "pineapple_slices_with_plain_yoghurt_0",
+    "title": "Pineapple Slices With Plain Yoghurt",
+    "description": "Introduce your baby to juicy pineapple slices, served with plain full-fat yoghurt. A great snack for older children in the family too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/pineapple-slices-with-plain-yoghurt/",
+    "scraped_at": "2025-04-04T07:45:08.502332",
+    "tokens": 145,
+    "age_range": "6 months or older",
+    "prep_time": "2 mins",
+    "cook_time": null,
+    "portions": 1,
+    "ingredients": [
+      "1 small tin pineapple slices (in juice)",
+      "1 tbsp plain full fat yoghurt (optional)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

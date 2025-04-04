@@ -1,0 +1,46 @@
+[
+  {
+    "chunk": "Cheesy beans on toast recipe An interesting twist on beans on toast – 5-bean salad blended with cheese and served on warm fingers of toast. Age: 7 to 9 months Prep: 15 mins Cook: 8 mins Portions: 1 Ingredients - 45g (3 tbsp) canned five bean salad, no added sugar and salt, drained - 10g full fat hard cheese, grated - 1 small slice wholemeal bread - 1tsp vegetable oil spread butter - ¼ small red pepper, washed and sliced into sticks Method Blend or mash the beans and cheese together in a bowl until smooth with soft lumps Steam (or boil) the red pepper sticks for around 3 to 5 minutes until soft. Toast the bread, then thinly spread with butter and cut into fingers Place the bean mixture into a bowl, and serve with toast fingers and red pepper sticks on the side. Place the leftover beans into",
+    "chunk_id": "cheesy_beans_on_toast_0",
+    "title": "Cheesy Beans On Toast",
+    "description": "An interesting twist on beans on toast – 5-bean salad blended with cheese and served on warm fingers of toast.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cheesy-beans-on-toast/",
+    "scraped_at": "2025-04-04T07:45:18.718875",
+    "tokens": 195,
+    "age_range": "7 to 9 months",
+    "prep_time": "15 mins",
+    "cook_time": "8 mins",
+    "portions": 1,
+    "ingredients": [
+      "45g (3 tbsp) canned five bean salad, no added sugar and salt, drained",
+      "10g full fat hard cheese, grated",
+      "1 small slice wholemeal bread",
+      "1tsp vegetable oil spread butter",
+      "¼ small red pepper, washed and sliced into sticks"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "with butter and cut into fingers Place the bean mixture into a bowl, and serve with toast fingers and red pepper sticks on the side. Place the leftover beans into a bowl, cover and store in fridge for up to 2 days. You could make the mashed beans again or add the leftover beans to your evening meal such as in a soup, casserole, stew or curry. Try heating up the beans (1 to 2 mins) before mashing with cheese to serve them warm.",
+    "chunk_id": "cheesy_beans_on_toast_1",
+    "title": "Cheesy Beans On Toast",
+    "description": "An interesting twist on beans on toast – 5-bean salad blended with cheese and served on warm fingers of toast.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cheesy-beans-on-toast/",
+    "scraped_at": "2025-04-04T07:45:18.718892",
+    "tokens": 109,
+    "age_range": "7 to 9 months",
+    "prep_time": "15 mins",
+    "cook_time": "8 mins",
+    "portions": 1,
+    "ingredients": [
+      "45g (3 tbsp) canned five bean salad, no added sugar and salt, drained",
+      "10g full fat hard cheese, grated",
+      "1 small slice wholemeal bread",
+      "1tsp vegetable oil spread butter",
+      "¼ small red pepper, washed and sliced into sticks"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "chunk": "Cheesy English muffins and cucumber sticks recipe Toasted English muffins with a tasty layer of cream cheese and cucumber sticks on the side – a perfect mid-afternoon snack for your baby. Age: 12 months and older Prep: 5 mins Cook: 2 mins Portions: 2 Ingredients - 4 thick cucumber finger sticks, washed and halved lengthways - 1 English muffin, halved - 30g full-fat cream cheese Method Toast or grill the muffin until golden brown, then spread the cream cheese evenly. Serve with the cucumber sticks. Any leftover cucumber will make a great snack for older children and other members of the family too. Information: Try your baby with some different vegetables such as carrot, pepper or celery sticks on the side. Or why not mix it up with a couple of sticks of each. Weaning tip From 12 months, your child should be having 3 meals a day. They may",
+    "chunk_id": "cheesy_english_muffins_and_cucumber_sticks_0",
+    "title": "Cheesy English Muffins And Cucumber Sticks",
+    "description": "Toasted English muffins with a tasty layer of cream cheese and cucumber sticks on the side – a perfect mid-afternoon snack for your baby.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cheesy-english-muffins-and-cucumber-sticks/",
+    "scraped_at": "2025-04-04T07:45:13.443932",
+    "tokens": 195,
+    "age_range": "12 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "2 mins",
+    "portions": 2,
+    "ingredients": [
+      "4 thick cucumber finger sticks, washed and halved lengthways",
+      "1 English muffin, halved",
+      "30g full-fat cream cheese"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "side. Or why not mix it up with a couple of sticks of each. Weaning tip From 12 months, your child should be having 3 meals a day. They may also need 2 healthy snacks in between.",
+    "chunk_id": "cheesy_english_muffins_and_cucumber_sticks_1",
+    "title": "Cheesy English Muffins And Cucumber Sticks",
+    "description": "Toasted English muffins with a tasty layer of cream cheese and cucumber sticks on the side – a perfect mid-afternoon snack for your baby.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cheesy-english-muffins-and-cucumber-sticks/",
+    "scraped_at": "2025-04-04T07:45:13.443950",
+    "tokens": 48,
+    "age_range": "12 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "2 mins",
+    "portions": 2,
+    "ingredients": [
+      "4 thick cucumber finger sticks, washed and halved lengthways",
+      "1 English muffin, halved",
+      "30g full-fat cream cheese"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

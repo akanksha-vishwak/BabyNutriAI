@@ -1,0 +1,52 @@
+[
+  {
+    "chunk": "Autumn lentil soup A lunch the whole family can enjoy together on colder days. A delicious blend of vegetables and lentils served with slices of wholemeal bread. Freeze the extra portions for handy future meals. Age: 7 to 9 months Prep: 10 mins Cook: 20 mins Portions: 4 (infant-sized) Ingredients - 160g butternut squash, peeled (approx handful) - ¼ large red pepper, deseeded (50g) - ¼ medium onion, peeled (40g) - 1tsp vegetable oil - ½ tsp mixed dried herbs - 260ml water - 30g dried red lentils - Small slice wholemeal bread (1 portion) Method De-seed butternut squash and pepper and dice into small pieces. Dice the onion. Heat the oil in a pan and add the butternut squash, pepper and onion. Cook until starting to soften, approx 5 minutes. Add the dried herbs, water and lentils. Bring to the boil, cover and simmer gently for 15 to 20",
+    "chunk_id": "autumn_lentil_soup_0",
+    "title": "Autumn Lentil Soup",
+    "description": "A lunch the whole family can enjoy together on colder days. A delicious blend of vegetables and lentils served with slices of wholemeal bread. Freeze the extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/autumn-lentil-soup/",
+    "scraped_at": "2025-04-04T07:45:14.877718",
+    "tokens": 195,
+    "age_range": "7 to 9 months",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "160g butternut squash, peeled (approx handful)",
+      "¼ large red pepper, deseeded (50g)",
+      "¼ medium onion, peeled (40g)",
+      "1tsp vegetable oil",
+      "½ tsp mixed dried herbs",
+      "260ml water",
+      "30g dried red lentils",
+      "Small slice wholemeal bread (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "pepper and onion. Cook until starting to soften, approx 5 minutes. Add the dried herbs, water and lentils. Bring to the boil, cover and simmer gently for 15 to 20 minutes until the veg is soft and the lentils are cooked. Add a little more water during cooking if needed. Set aside to cool a little before blending or mashing until smooth. Then put ¼ of the soup into a bowl, and freeze the other 3 portions for other days. Toast the slice of bread and cut into toasted fingers to go on the side. Try serving with some cooked vegetable sticks as a finger food such as broccoli, green beans or courgette.",
+    "chunk_id": "autumn_lentil_soup_1",
+    "title": "Autumn Lentil Soup",
+    "description": "A lunch the whole family can enjoy together on colder days. A delicious blend of vegetables and lentils served with slices of wholemeal bread. Freeze the extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/autumn-lentil-soup/",
+    "scraped_at": "2025-04-04T07:45:14.877735",
+    "tokens": 146,
+    "age_range": "7 to 9 months",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "160g butternut squash, peeled (approx handful)",
+      "¼ large red pepper, deseeded (50g)",
+      "¼ medium onion, peeled (40g)",
+      "1tsp vegetable oil",
+      "½ tsp mixed dried herbs",
+      "260ml water",
+      "30g dried red lentils",
+      "Small slice wholemeal bread (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

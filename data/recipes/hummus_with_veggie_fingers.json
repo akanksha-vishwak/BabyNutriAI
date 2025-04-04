@@ -1,0 +1,50 @@
+[
+  {
+    "chunk": "Hummus with veggie fingers recipe Your baby will love this homemade hummus. With no added salt, it’s a great snack for the whole family. Age: 12 months or older Prep: 10 mins Cook: None Portions: 4 (approx) Ingredients - 120g chickpeas (½ canned in water, drained) - 1 tbsp lemon juice - ½ to 1 garlic clove, peeled - ½ tsp ground cumin - 1½ tbsp water - 2 tsp olive oil - Approx 24 sugar snap peas, washed Method Put all the ingredients, apart from the sugar snap peas, into a blender or food processor and blend into a smooth paste. Serve with the sugar snap peas (or any other vegetables good for dipping). If you have older children in the family it’s a great snack for them to enjoy, and adults too. Any leftovers should be covered and kept in the fridge (for up to 2 to 3",
+    "chunk_id": "hummus_with_veggie_fingers_0",
+    "title": "Hummus With Veggie Fingers",
+    "description": "Your baby will love this homemade hummus. With no added salt, it’s a great snack for the whole family.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/hummus-with-veggie-fingers/",
+    "scraped_at": "2025-04-04T07:45:16.590926",
+    "tokens": 195,
+    "age_range": "12 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "None",
+    "portions": 4,
+    "ingredients": [
+      "120g chickpeas (½ canned in water, drained)",
+      "1 tbsp lemon juice",
+      "½ to 1 garlic clove, peeled",
+      "½ tsp ground cumin",
+      "1½ tbsp water",
+      "2 tsp olive oil",
+      "Approx 24 sugar snap peas, washed"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "in the family it’s a great snack for them to enjoy, and adults too. Any leftovers should be covered and kept in the fridge (for up to 2 to 3 days). Information: You can also use wholemeal pitta bread or wholemeal toast fingers for dipping. Weaning tip From 12 months, your child should be having 3 meals a day. They may also need 2 healthy snacks in between.",
+    "chunk_id": "hummus_with_veggie_fingers_1",
+    "title": "Hummus With Veggie Fingers",
+    "description": "Your baby will love this homemade hummus. With no added salt, it’s a great snack for the whole family.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/hummus-with-veggie-fingers/",
+    "scraped_at": "2025-04-04T07:45:16.590945",
+    "tokens": 88,
+    "age_range": "12 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "None",
+    "portions": 4,
+    "ingredients": [
+      "120g chickpeas (½ canned in water, drained)",
+      "1 tbsp lemon juice",
+      "½ to 1 garlic clove, peeled",
+      "½ tsp ground cumin",
+      "1½ tbsp water",
+      "2 tsp olive oil",
+      "Approx 24 sugar snap peas, washed"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "chunk": "Cinnamon toast and banana sticks recipe This quick and tasty cinnamon toast is a great finger food breakfast for your baby to practise self-feeding while trying new flavours. Age: 10 to 12 months Prep: 5 mins Cook: 5 mins Portions: 1 Ingredients - ¾ medium slices wholemeal bread - 1 tsp vegetable oil spread - pinch of ground cinnamon - ¼ medium banana, peeled and cut into finger sticks - 1 tbsp full-fat plain yogurt (optional) Method Toast the bread slices in the toaster until golden brown. Meanwhile peel and slice the banana into finger sticks, big enough for your baby to hold with the top sticking out from their palm. Spread the vegetable spread evenly over the toasted bread slices. Sprinkle the cinnamon over the toast. Cut the bread into easy to eat finger slices and serve with the banana sticks. Information: Put some plain full-fat yogurt in a",
+    "chunk_id": "cinnamon_toast_and_banana_sticks_0",
+    "title": "Cinnamon Toast And Banana Sticks",
+    "description": "This quick and tasty cinnamon toast is a great finger food breakfast for your baby to practise self-feeding while trying new flavours.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cinnamon-toast-and-banana-sticks/",
+    "scraped_at": "2025-04-04T07:45:09.815689",
+    "tokens": 195,
+    "age_range": "10 to 12 months",
+    "prep_time": "5 mins",
+    "cook_time": "5 mins",
+    "portions": 1,
+    "ingredients": [
+      "¾ medium slices wholemeal bread",
+      "1 tsp vegetable oil spread",
+      "pinch of ground cinnamon",
+      "¼ medium banana, peeled and cut into finger sticks",
+      "1 tbsp full-fat plain yogurt (optional)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "slices. Sprinkle the cinnamon over the toast. Cut the bread into easy to eat finger slices and serve with the banana sticks. Information: Put some plain full-fat yogurt in a side bowl ready for dipping fun! Weaning tip From 10 to 12 months, your child should be having 3 meals a day.",
+    "chunk_id": "cinnamon_toast_and_banana_sticks_1",
+    "title": "Cinnamon Toast And Banana Sticks",
+    "description": "This quick and tasty cinnamon toast is a great finger food breakfast for your baby to practise self-feeding while trying new flavours.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cinnamon-toast-and-banana-sticks/",
+    "scraped_at": "2025-04-04T07:45:09.815707",
+    "tokens": 67,
+    "age_range": "10 to 12 months",
+    "prep_time": "5 mins",
+    "cook_time": "5 mins",
+    "portions": 1,
+    "ingredients": [
+      "¾ medium slices wholemeal bread",
+      "1 tsp vegetable oil spread",
+      "pinch of ground cinnamon",
+      "¼ medium banana, peeled and cut into finger sticks",
+      "1 tbsp full-fat plain yogurt (optional)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

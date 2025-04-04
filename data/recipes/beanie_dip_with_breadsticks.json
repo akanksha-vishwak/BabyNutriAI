@@ -1,0 +1,46 @@
+[
+  {
+    "chunk": "Beanie dip with breadsticks recipe A tasty dip made with butter beans and breadsticks on the side. Age: 6 months or older Prep: 10 mins Cook: None Portions: 8 (approx) Ingredients - 2 garlic cloves, peeled - 2 to 3 sprigs fresh mint - 1 tin (400g) butter beans, no added salt or sugar, drained - 1 tbsp olive oil - 1 plain breadstick (snapped into finger lengths), to serve Method Crush the garlic and roughly chop the mint. Warm the butter beans in a pan with the olive oil. Add the crushed garlic and mint to the beans. Simmer for 5 to 10 minutes until the beans are tender – add a little water if needed. Blend until smooth. Serve 1 portion in a bowl with breadsticks on the side. Store the rest in an airtight container in the fridge. Information: If you prefer, swap the breadsticks for soft",
+    "chunk_id": "beanie_dip_with_breadsticks_0",
+    "title": "Beanie Dip With Breadsticks",
+    "description": "A tasty dip made with butter beans and breadsticks on the side.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/beanie-dip-with-breadsticks/",
+    "scraped_at": "2025-04-04T07:45:17.597513",
+    "tokens": 195,
+    "age_range": "6 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "None",
+    "portions": 8,
+    "ingredients": [
+      "2 garlic cloves, peeled",
+      "2 to 3 sprigs fresh mint",
+      "1 tin (400g) butter beans, no added salt or sugar, drained",
+      "1 tbsp olive oil",
+      "1 plain breadstick (snapped into finger lengths), to serve"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "Serve 1 portion in a bowl with breadsticks on the side. Store the rest in an airtight container in the fridge. Information: If you prefer, swap the breadsticks for soft cooked carrot sticks.",
+    "chunk_id": "beanie_dip_with_breadsticks_1",
+    "title": "Beanie Dip With Breadsticks",
+    "description": "A tasty dip made with butter beans and breadsticks on the side.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/beanie-dip-with-breadsticks/",
+    "scraped_at": "2025-04-04T07:45:17.597529",
+    "tokens": 42,
+    "age_range": "6 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "None",
+    "portions": 8,
+    "ingredients": [
+      "2 garlic cloves, peeled",
+      "2 to 3 sprigs fresh mint",
+      "1 tin (400g) butter beans, no added salt or sugar, drained",
+      "1 tbsp olive oil",
+      "1 plain breadstick (snapped into finger lengths), to serve"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

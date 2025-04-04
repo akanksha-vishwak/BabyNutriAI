@@ -1,0 +1,42 @@
+[
+  {
+    "chunk": "Leek and potato recipe A classic winter warmer, mashed potato mixed with tasty leeks. Age: 6 months or older Prep: 10 mins Cook: 15 mins Portions: 10 (approx) Ingredients - 1 medium potato, peeled and chopped - 1 leek, washed and finely diced - 2 tbsp full-fat milk or baby's usual milk Method Bring a pan of water to the boil and add the potato. Cook for 10 minutes. Dice the leek and add to the pan, cook for another 5 minutes. Once the vegetables are soft, drain, then add milk and mash until smooth. If the mixture is still too thick, add a little more full-fat milk or baby's usual milk. Cool down before serving. Information: Mix a teaspoon of unsalted butter into the potato while mashing for a creamier texture. Weaning tip Remember, babies do not need salt or sugar added to their food (or cooking water).",
+    "chunk_id": "leek_and_potato_0",
+    "title": "Leek And Potato",
+    "description": "A classic winter warmer, mashed potato mixed with tasty leeks.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/leek-and-potato/",
+    "scraped_at": "2025-04-04T07:45:20.698748",
+    "tokens": 193,
+    "age_range": "6 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "15 mins",
+    "portions": 10,
+    "ingredients": [
+      "1 medium potato, peeled and chopped",
+      "1 leek, washed and finely diced",
+      "2 tbsp full-fat milk or baby's usual milk"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "of unsalted butter into the potato while mashing for a creamier texture. Weaning tip Remember, babies do not need salt or sugar added to their food (or cooking water).",
+    "chunk_id": "leek_and_potato_1",
+    "title": "Leek And Potato",
+    "description": "A classic winter warmer, mashed potato mixed with tasty leeks.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/leek-and-potato/",
+    "scraped_at": "2025-04-04T07:45:20.698788",
+    "tokens": 37,
+    "age_range": "6 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "15 mins",
+    "portions": 10,
+    "ingredients": [
+      "1 medium potato, peeled and chopped",
+      "1 leek, washed and finely diced",
+      "2 tbsp full-fat milk or baby's usual milk"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "chunk": "Sophie Mum Spag bol recipe A family classic – beef bolognese with spaghetti. Freeze the extra portions for handy future meals. Age: 12 months and older Prep: 10 mins Cook: 40 mins Portions: 4 (infant) Ingredients - 1 small onion, peeled (60g) - ½ medium pepper (60g) - 1 tsp vegetable oil - 5 basil leaves (optional) - 300g chopped tinned tomatoes - 180g minced beef, lean - 3 mushrooms (48g) - 70ml water - 35g spaghetti (1 portion) Method Finely dice the onion and pepper. Heat the vegetable oil in a saucepan, add the onion and cook for 1 to 2 minutes until softened. Add the mince to the pan, cook for 3 to 5 minutes until starting to brown. Dice the mushrooms, then add to the pan along with the tomatoes, basil (if using) and water. Cook for 20 to 30 minutes until the meat and veg are",
+    "chunk_id": "sophie_0",
+    "title": "Sophie",
+    "description": "Mum",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/spag-bol/",
+    "scraped_at": "2025-04-04T07:45:12.832754",
+    "tokens": 195,
+    "age_range": "12 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "40 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 small onion, peeled (60g)",
+      "½ medium pepper (60g)",
+      "1 tsp vegetable oil",
+      "5 basil leaves (optional)",
+      "300g chopped tinned tomatoes",
+      "180g minced beef, lean",
+      "3 mushrooms (48g)",
+      "70ml water",
+      "35g spaghetti (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "brown. Dice the mushrooms, then add to the pan along with the tomatoes, basil (if using) and water. Cook for 20 to 30 minutes until the meat and veg are cooked and the sauce has thickened. In the meantime, bring a pan of water to the boil, add the spaghetti and cook for 10 to 12 minutes until soft. Then drain. Put the pasta in a bowl, place quarter of the bolognese mix over the top and serve with a fork. Swap the beef mince for lentils or soya mince for a vegetarian alternative. Family feedback Simple to make, really tasty and it's easy to freeze extra portions – bonus! My son loved tucking into this firm family favourite.",
+    "chunk_id": "sophie_1",
+    "title": "Sophie",
+    "description": "Mum",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/spag-bol/",
+    "scraped_at": "2025-04-04T07:45:12.832772",
+    "tokens": 154,
+    "age_range": "12 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "40 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 small onion, peeled (60g)",
+      "½ medium pepper (60g)",
+      "1 tsp vegetable oil",
+      "5 basil leaves (optional)",
+      "300g chopped tinned tomatoes",
+      "180g minced beef, lean",
+      "3 mushrooms (48g)",
+      "70ml water",
+      "35g spaghetti (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

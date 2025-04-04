@@ -1,0 +1,42 @@
+[
+  {
+    "chunk": "Baked plantain recipe This is a great dish for your baby to learn how to dip – a tasty snack for the whole family too. Age: 6 months or older Prep: 5 mins Cook: 20 mins Portions: 4 Ingredients - 1 plantain - 1 to 2 tsp vegetable oil - 1 tbsp plain full-fat yoghurt (one portion) Method Preheat the oven to 180C (fan). Slice the ends off the plantain, remove the peel and cut diagonally into thick slices. Add the oil to a baking tray, place the plantain slices on top and make sure the oil is spread evenly (top and bottom of plantain). Bake for around 20 minutes (turning them over halfway) until the edges are golden brown. Leave to cool before serving. Put the plain full-fat yoghurt on the side for dipping. For the rest of the family (over 5 years), swap to low-fat plain yoghurt. Weaning",
+    "chunk_id": "baked_plantain_0",
+    "title": "Baked Plantain",
+    "description": "This is a great dish for your baby to learn how to dip – a tasty snack for the whole family too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/baked-plantain/",
+    "scraped_at": "2025-04-04T07:45:07.490055",
+    "tokens": 195,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 plantain",
+      "1 to 2 tsp vegetable oil",
+      "1 tbsp plain full-fat yoghurt (one portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "Leave to cool before serving. Put the plain full-fat yoghurt on the side for dipping. For the rest of the family (over 5 years), swap to low-fat plain yoghurt. Weaning tip Give your baby sips of water with their meals - rather than sweet drinks which can cause tooth decay.",
+    "chunk_id": "baked_plantain_1",
+    "title": "Baked Plantain",
+    "description": "This is a great dish for your baby to learn how to dip – a tasty snack for the whole family too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/baked-plantain/",
+    "scraped_at": "2025-04-04T07:45:07.490073",
+    "tokens": 65,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 plantain",
+      "1 to 2 tsp vegetable oil",
+      "1 tbsp plain full-fat yoghurt (one portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

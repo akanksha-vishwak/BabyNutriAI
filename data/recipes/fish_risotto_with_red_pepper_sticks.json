@@ -1,0 +1,77 @@
+[
+  {
+    "chunk": "Fish risotto with red pepper sticks recipe A great recipe to get some oily fish into your baby's diet. It's quick and easy to cook for the whole family too. Age: 12 months or older Prep: 10 mins Cook: 20 mins Portions: 1 Ingredients - ½ small onion, peeled - ½ clove garlic, peeled - 300ml water - 1 small salmon fillet (½ to serve) - 1 tsp vegetable oil - 2 tbsp frozen peas - 40g white rice - 5 finger slices red pepper Method Preheat the oven to 180C. Dice the onion and garlic. Place the salmon in an ovenproof dish and bake for 15 to 20 minutes (until cooked through). Meanwhile, heat the oil in a pan and add the onion and garlic. Cook for 1 minute. Add the peas and rice and stir. Add the water until the rice and vegetables are covered and stir. Cover",
+    "chunk_id": "fish_risotto_with_red_pepper_sticks_0",
+    "title": "Fish Risotto With Red Pepper Sticks",
+    "description": "A great recipe to get some oily fish into your baby's diet. It's quick and easy to cook for the whole family too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fish-risotto-with-red-pepper-sticks/",
+    "scraped_at": "2025-04-04T07:45:13.725356",
+    "tokens": 195,
+    "age_range": "12 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 1,
+    "ingredients": [
+      "½ small onion, peeled",
+      "½ clove garlic, peeled",
+      "300ml water",
+      "1 small salmon fillet (½ to serve)",
+      "1 tsp vegetable oil",
+      "2 tbsp frozen peas",
+      "40g white rice",
+      "5 finger slices red pepper"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "and add the onion and garlic. Cook for 1 minute. Add the peas and rice and stir. Add the water until the rice and vegetables are covered and stir. Cover and simmer gently until the majority of the water has been absorbed and the rice is cooked, approx 10 minutes. Meanwhile slice the red pepper into finger sticks. Check to see if the rice is cooked, if not, add more water and continue to simmer until cooked. Flake in half the baked salmon and combine well. Serve with red pepper sticks on the side. For a vegetarian alternative, swap the salmon for broad beans and cook at the same time as the peas. Instead of baking fresh or frozen salmon, you can use tinned salmon (drained) flaked into the risotto.",
+    "chunk_id": "fish_risotto_with_red_pepper_sticks_1",
+    "title": "Fish Risotto With Red Pepper Sticks",
+    "description": "A great recipe to get some oily fish into your baby's diet. It's quick and easy to cook for the whole family too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fish-risotto-with-red-pepper-sticks/",
+    "scraped_at": "2025-04-04T07:45:13.725374",
+    "tokens": 169,
+    "age_range": "12 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 1,
+    "ingredients": [
+      "½ small onion, peeled",
+      "½ clove garlic, peeled",
+      "300ml water",
+      "1 small salmon fillet (½ to serve)",
+      "1 tsp vegetable oil",
+      "2 tbsp frozen peas",
+      "40g white rice",
+      "5 finger slices red pepper"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "you can use tinned salmon (drained) flaked into the risotto.",
+    "chunk_id": "fish_risotto_with_red_pepper_sticks_2",
+    "title": "Fish Risotto With Red Pepper Sticks",
+    "description": "A great recipe to get some oily fish into your baby's diet. It's quick and easy to cook for the whole family too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fish-risotto-with-red-pepper-sticks/",
+    "scraped_at": "2025-04-04T07:45:13.725385",
+    "tokens": 13,
+    "age_range": "12 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 1,
+    "ingredients": [
+      "½ small onion, peeled",
+      "½ clove garlic, peeled",
+      "300ml water",
+      "1 small salmon fillet (½ to serve)",
+      "1 tsp vegetable oil",
+      "2 tbsp frozen peas",
+      "40g white rice",
+      "5 finger slices red pepper"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

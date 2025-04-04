@@ -1,0 +1,71 @@
+[
+  {
+    "chunk": "Sweet potato patties recipe Sweet potato patties make a great finger food for your baby, as well as a tasty snack for the whole family too. Age: 6 months or older Prep: 10 mins Cook: 25 mins Portions: 15 (approx) Ingredients - 1 medium sweet potato (230g), peeled - 1 small onion (150g), peeled - 1 small tin chickpeas (200g), no added sugar or salt, drained - 2 tsp garam masala - 1 large eggs - 2 tbsp vegetable oil Method Roughly chop the sweet potatoes and dice the onion. Boil the sweet potatoes in a saucepan for 15 minutes or until soft – then drain. While the potatoes are boiling, fry the onions until soft. Place the potatoes into a large mixing bowl and mash with the chickpeas until smooth. Mix in the diced onion, garam masala and eggs. Roll into small balls using a tablespoon and flatten to",
+    "chunk_id": "sweet_potato_patties_0",
+    "title": "Sweet Potato Patties",
+    "description": "Sweet potato patties make a great finger food for your baby, as well as a tasty snack for the whole family too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/sweet-potato-patties/",
+    "scraped_at": "2025-04-04T07:45:17.886201",
+    "tokens": 195,
+    "age_range": "6 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 15,
+    "ingredients": [
+      "1 medium sweet potato (230g), peeled",
+      "1 small onion (150g), peeled",
+      "1 small tin chickpeas (200g), no added sugar or salt, drained",
+      "2 tsp garam masala",
+      "1 large eggs",
+      "2 tbsp vegetable oil"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "a large mixing bowl and mash with the chickpeas until smooth. Mix in the diced onion, garam masala and eggs. Roll into small balls using a tablespoon and flatten to form patties. Heat half the oil over a moderate heat in a pan. Cook half the patties for 2 minutes on each side, or until golden brown and cooked through. Add the remaining oil and cook the rest of the patties. Drain on a paper towel. Once cooled, serve on a plate as finger food. Weaning tip Let your baby guide you on how much they want to eat. They'll show you when they're full by pushing food back out of their mouth, turning their head, clamping their mouth shut or becoming distracted.",
+    "chunk_id": "sweet_potato_patties_1",
+    "title": "Sweet Potato Patties",
+    "description": "Sweet potato patties make a great finger food for your baby, as well as a tasty snack for the whole family too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/sweet-potato-patties/",
+    "scraped_at": "2025-04-04T07:45:17.886240",
+    "tokens": 159,
+    "age_range": "6 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 15,
+    "ingredients": [
+      "1 medium sweet potato (230g), peeled",
+      "1 small onion (150g), peeled",
+      "1 small tin chickpeas (200g), no added sugar or salt, drained",
+      "2 tsp garam masala",
+      "1 large eggs",
+      "2 tbsp vegetable oil"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "or becoming distracted.",
+    "chunk_id": "sweet_potato_patties_2",
+    "title": "Sweet Potato Patties",
+    "description": "Sweet potato patties make a great finger food for your baby, as well as a tasty snack for the whole family too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/sweet-potato-patties/",
+    "scraped_at": "2025-04-04T07:45:17.886264",
+    "tokens": 3,
+    "age_range": "6 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 15,
+    "ingredients": [
+      "1 medium sweet potato (230g), peeled",
+      "1 small onion (150g), peeled",
+      "1 small tin chickpeas (200g), no added sugar or salt, drained",
+      "2 tsp garam masala",
+      "1 large eggs",
+      "2 tbsp vegetable oil"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

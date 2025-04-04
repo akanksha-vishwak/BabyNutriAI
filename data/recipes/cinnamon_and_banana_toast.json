@@ -1,0 +1,44 @@
+[
+  {
+    "chunk": "Cinnamon and banana toast recipe This quick and tasty cinnamon toast is a great finger food breakfast for your baby to practice self-feeding while trying new flavours. Age: 12 months and older Prep: 5 mins Cook: 3 mins Portions: 1 Ingredients - 1 medium slice wholemeal bread (30g) - 1 tsp vegetable oil spread (4g) - Pinch of ground cinnamon - ½ small banana, peeled and mashed Method Toast the bread in the toaster until golden brown. Meanwhile peel and slice the banana Spread the vegetable spread evenly over the toasted bread. Cut the bread into easy-to-eat finger slices and place the sliced banana on top of the toast fingers (or on the side if preferred). Sprinkle lightly with cinnamon over the top. Information: Try offering the cinnamon toast with some warm stewed apple on colder days. Weaning tip From 12 months, your child should be having 3 meals a",
+    "chunk_id": "cinnamon_and_banana_toast_0",
+    "title": "Cinnamon And Banana Toast",
+    "description": "This quick and tasty cinnamon toast is a great finger food breakfast for your baby to practice self-feeding while trying new flavours.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cinnamon-and-banana-toast/",
+    "scraped_at": "2025-04-04T07:45:14.016733",
+    "tokens": 195,
+    "age_range": "12 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "3 mins",
+    "portions": 1,
+    "ingredients": [
+      "1 medium slice wholemeal bread (30g)",
+      "1 tsp vegetable oil spread (4g)",
+      "Pinch of ground cinnamon",
+      "½ small banana, peeled and mashed"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "over the top. Information: Try offering the cinnamon toast with some warm stewed apple on colder days. Weaning tip From 12 months, your child should be having 3 meals a day. They may also need 2 healthy snacks in between.",
+    "chunk_id": "cinnamon_and_banana_toast_1",
+    "title": "Cinnamon And Banana Toast",
+    "description": "This quick and tasty cinnamon toast is a great finger food breakfast for your baby to practice self-feeding while trying new flavours.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cinnamon-and-banana-toast/",
+    "scraped_at": "2025-04-04T07:45:14.016752",
+    "tokens": 52,
+    "age_range": "12 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "3 mins",
+    "portions": 1,
+    "ingredients": [
+      "1 medium slice wholemeal bread (30g)",
+      "1 tsp vegetable oil spread (4g)",
+      "Pinch of ground cinnamon",
+      "½ small banana, peeled and mashed"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "chunk": "Simple baked fish Introduce your baby to fish with this quick and easy baked salmon. This recipe can also be turned into a dinner for the whole family by adding extra salmon fillets, cooked new potatoes and mixed vegetables. Age: 6 months or older Prep: 5 mins Cook: 20 mins Portions: 4 (approx) Ingredients - 1 salmon fillet Method Preheat the oven to 180C (fan). Place the salmon in an ovenproof dish, cover, and bake for about 20 minutes (until it's cooked through and flakes easily). Allow to cool, check for any bones that may need removing. Flake a quarter of the salmon into a bowl and serve. Aim for 2 portions of fish a week, including 1 oily fish (salmon is a great oily fish option). Weaning tip Let your baby guide you on how much they want to eat. They'll show you when they're full by pushing food",
+    "chunk_id": "simple_baked_fish_0",
+    "title": "Simple Baked Fish",
+    "description": "Introduce your baby to fish with this quick and easy baked salmon. This recipe can also be turned into a dinner for the whole family by adding extra salmon fillets, cooked new potatoes and mixed vegetables.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/simple-baked-fish/",
+    "scraped_at": "2025-04-04T07:45:12.399744",
+    "tokens": 195,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 salmon fillet"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "(salmon is a great oily fish option). Weaning tip Let your baby guide you on how much they want to eat. They'll show you when they're full by pushing food back out of their mouth, turning their head, clamping their mouth shut or becoming distracted.",
+    "chunk_id": "simple_baked_fish_1",
+    "title": "Simple Baked Fish",
+    "description": "Introduce your baby to fish with this quick and easy baked salmon. This recipe can also be turned into a dinner for the whole family by adding extra salmon fillets, cooked new potatoes and mixed vegetables.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/simple-baked-fish/",
+    "scraped_at": "2025-04-04T07:45:12.399760",
+    "tokens": 58,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 salmon fillet"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "chunk": "Squash and lentil soup recipe A delicious blend of vegetables and lentils served with slices of wholemeal bread – something the whole family can enjoy. Freeze the extra portions for handy future meals. Age: 10 to 12 months Prep: 10 mins Cook: 20 mins Portions: 4 (infant) Ingredients - 160g butternut squash, peeled (approx handful) - ¼ large red pepper, deseeded (50g) - ¼ medium onion, peeled (40g) - 1 tsp vegetable oil - ½ tsp mixed dried herbs - 260ml water - 30g dried red lentils - Small slice wholemeal bread (1 portion) Method De-seed butternut squash and pepper and dice into small pieces. Dice the onion. Heat the oil in a pan and add the butternut squash, pepper and onion. Cook until starting to soften, approx 5 minutes. Add the dried herbs, water and lentils. Bring to the boil, cover and simmer gently for 15 to 20 minutes",
+    "chunk_id": "squash_and_lentil_soup_0",
+    "title": "Squash And Lentil Soup",
+    "description": "A delicious blend of vegetables and lentils served with slices of wholemeal bread – something the whole family can enjoy. Freeze the extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/squash-and-lentil-soup/",
+    "scraped_at": "2025-04-04T07:45:12.996805",
+    "tokens": 195,
+    "age_range": "10 to 12 months",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "160g butternut squash, peeled (approx handful)",
+      "¼ large red pepper, deseeded (50g)",
+      "¼ medium onion, peeled (40g)",
+      "1 tsp vegetable oil",
+      "½ tsp mixed dried herbs",
+      "260ml water",
+      "30g dried red lentils",
+      "Small slice wholemeal bread (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "and onion. Cook until starting to soften, approx 5 minutes. Add the dried herbs, water and lentils. Bring to the boil, cover and simmer gently for 15 to 20 minutes until the veg is soft and the lentils are cooked. Add a little more water during cooking if needed. Set aside to cool a little before mashing until smooth but with some soft lumps for your baby to try lumpier textures. Then put ¼ of the soup into a bowl, and freeze the other three portions for other days. Toast the slice of bread and cut into toasted fingers to go on the side. Serve the soup with a spoon to encourage your baby to practice self-feeding. You can swap the butternut squash for sweet potato or pumpkin. Or why not go for a mix for your baby to try different flavour combinations.",
+    "chunk_id": "squash_and_lentil_soup_1",
+    "title": "Squash And Lentil Soup",
+    "description": "A delicious blend of vegetables and lentils served with slices of wholemeal bread – something the whole family can enjoy. Freeze the extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/squash-and-lentil-soup/",
+    "scraped_at": "2025-04-04T07:45:12.996826",
+    "tokens": 185,
+    "age_range": "10 to 12 months",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "160g butternut squash, peeled (approx handful)",
+      "¼ large red pepper, deseeded (50g)",
+      "¼ medium onion, peeled (40g)",
+      "1 tsp vegetable oil",
+      "½ tsp mixed dried herbs",
+      "260ml water",
+      "30g dried red lentils",
+      "Small slice wholemeal bread (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "the butternut squash for sweet potato or pumpkin. Or why not go for a mix for your baby to try different flavour combinations.",
+    "chunk_id": "squash_and_lentil_soup_2",
+    "title": "Squash And Lentil Soup",
+    "description": "A delicious blend of vegetables and lentils served with slices of wholemeal bread – something the whole family can enjoy. Freeze the extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/squash-and-lentil-soup/",
+    "scraped_at": "2025-04-04T07:45:12.996841",
+    "tokens": 29,
+    "age_range": "10 to 12 months",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "160g butternut squash, peeled (approx handful)",
+      "¼ large red pepper, deseeded (50g)",
+      "¼ medium onion, peeled (40g)",
+      "1 tsp vegetable oil",
+      "½ tsp mixed dried herbs",
+      "260ml water",
+      "30g dried red lentils",
+      "Small slice wholemeal bread (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "chunk": "Mac and cheese A super quick and simple cooked lunch option of macaroni cheese with added vegetables. Age: 12 months or older Prep: 5 mins Cook: 20 mins Portions: 1 Ingredients - 45g macaroni pasta - 7g full-fat hard cheese - 1 slice tomato - 1 tsp vegetable oil spread - quarter tablespoon plain flour - 55ml full-fat milk - 40g frozen peas Method Place the pasta in a small pan with cold water, bring to boil and cook for 10 to 12 minutes until pasta is soft. While the pasta is cooking, grate the cheese and dice the tomatoes. Prepare a roux white sauce. Melt the spread in a pan on a low heat. Once the spread has melted, add the flour and mix well. Gradually add the milk, stirring continuously until the sauce is smooth and thick. Add the grated cheese and diced tomatoes and mix well. Then",
+    "chunk_id": "mac_and_cheese_0",
+    "title": "Mac And Cheese",
+    "description": "A super quick and simple cooked lunch option of macaroni cheese with added vegetables.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/mac-and-cheese/",
+    "scraped_at": "2025-04-04T07:45:13.867579",
+    "tokens": 195,
+    "age_range": "12 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "20 mins",
+    "portions": 1,
+    "ingredients": [
+      "45g macaroni pasta",
+      "7g full-fat hard cheese",
+      "1 slice tomato",
+      "1 tsp vegetable oil spread",
+      "quarter tablespoon plain flour",
+      "55ml full-fat milk",
+      "40g frozen peas"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "add the flour and mix well. Gradually add the milk, stirring continuously until the sauce is smooth and thick. Add the grated cheese and diced tomatoes and mix well. Then combine the drained pasta with the cheese sauce. Bring a small saucepan of water to the boil, add the peas and cook for around 5 to 6 minutes until soft. Place the pasta and sauce in a bowl, and serve with the peas on the side.",
+    "chunk_id": "mac_and_cheese_1",
+    "title": "Mac And Cheese",
+    "description": "A super quick and simple cooked lunch option of macaroni cheese with added vegetables.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/mac-and-cheese/",
+    "scraped_at": "2025-04-04T07:45:13.867596",
+    "tokens": 98,
+    "age_range": "12 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "20 mins",
+    "portions": 1,
+    "ingredients": [
+      "45g macaroni pasta",
+      "7g full-fat hard cheese",
+      "1 slice tomato",
+      "1 tsp vegetable oil spread",
+      "quarter tablespoon plain flour",
+      "55ml full-fat milk",
+      "40g frozen peas"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

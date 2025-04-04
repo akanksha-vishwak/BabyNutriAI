@@ -1,0 +1,40 @@
+[
+  {
+    "chunk": "Fruity sticks Fruity sticks can be ready in a flash, and are perfect for introducing your baby to the fun of finger foods. Age: 6 months or older Prep: 2 mins Portions: 1 Ingredients - ¼ medium banana - 1 tbsp full-fat yoghurt (optional) – put this in a bowl for your baby to use as a dip Method Peel the skin and slice lengthways into four finger sticks. The sticks should be long enough for your baby to hold in their hand with the top of the banana sticking out. Put the sticks on a plate so your baby can feed themselves. Cover any leftovers and store in fridge. Information: Try other types of fruit, such as orange segments, strawberries, soft ripe pear, plums, nectarines or tinned fruits (drained). Weaning tip Finger foods help babies get used to different textures and also help develop hand-eye coordination.",
+    "chunk_id": "fruity_sticks_0",
+    "title": "Fruity Sticks",
+    "description": "Fruity sticks can be ready in a flash, and are perfect for introducing your baby to the fun of finger foods.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fruity-sticks/",
+    "scraped_at": "2025-04-04T07:45:10.243418",
+    "tokens": 191,
+    "age_range": "6 months or older",
+    "prep_time": "2 mins",
+    "cook_time": null,
+    "portions": 1,
+    "ingredients": [
+      "¼ medium banana",
+      "1 tbsp full-fat yoghurt (optional) – put this in a bowl for your baby to use as a dip"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "strawberries, soft ripe pear, plums, nectarines or tinned fruits (drained). Weaning tip Finger foods help babies get used to different textures and also help develop hand-eye coordination.",
+    "chunk_id": "fruity_sticks_1",
+    "title": "Fruity Sticks",
+    "description": "Fruity sticks can be ready in a flash, and are perfect for introducing your baby to the fun of finger foods.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fruity-sticks/",
+    "scraped_at": "2025-04-04T07:45:10.243435",
+    "tokens": 35,
+    "age_range": "6 months or older",
+    "prep_time": "2 mins",
+    "cook_time": null,
+    "portions": 1,
+    "ingredients": [
+      "¼ medium banana",
+      "1 tbsp full-fat yoghurt (optional) – put this in a bowl for your baby to use as a dip"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "chunk": "Omelette fingers recipe A tasty vegetable omelette. It’s quick for you to make, easy for baby to hold and eat, and great for adding some extra vegetables. Age: 6 months and older Prep: 5 mins Cook: 10 mins Portions: 8 (approx) Ingredients - 1 small onion, peeled and chopped - 1/2 medium pepper (any colour), chopped - 1 medium egg - 1 tbsp vegetable oil Method Crack the egg into a mixing bowl and beat. Heat the oil in a frying pan, add the onion and pepper, cook until soft (3 to 4 mins). Pour the egg into the frying pan, with the onion and pepper. Cook until the egg is set and the base is golden (2 to 3 mins). Allow to cool a little, then cut into finger-sized slices for easy feeding. Information: Enjoy leftovers as a light snack – share with older children in the family too.",
+    "chunk_id": "omelette_fingers_0",
+    "title": "Omelette Fingers",
+    "description": "A tasty vegetable omelette. It’s quick for you to make, easy for baby to hold and eat, and great for adding some extra vegetables.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/omelette-fingers/",
+    "scraped_at": "2025-04-04T07:45:20.265291",
+    "tokens": 195,
+    "age_range": "6 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "10 mins",
+    "portions": 8,
+    "ingredients": [
+      "1 small onion, peeled and chopped",
+      "1/2 medium pepper (any colour), chopped",
+      "1 medium egg",
+      "1 tbsp vegetable oil"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "mins). Allow to cool a little, then cut into finger-sized slices for easy feeding. Information: Enjoy leftovers as a light snack – share with older children in the family too.",
+    "chunk_id": "omelette_fingers_1",
+    "title": "Omelette Fingers",
+    "description": "A tasty vegetable omelette. It’s quick for you to make, easy for baby to hold and eat, and great for adding some extra vegetables.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/omelette-fingers/",
+    "scraped_at": "2025-04-04T07:45:20.265310",
+    "tokens": 39,
+    "age_range": "6 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "10 mins",
+    "portions": 8,
+    "ingredients": [
+      "1 small onion, peeled and chopped",
+      "1/2 medium pepper (any colour), chopped",
+      "1 medium egg",
+      "1 tbsp vegetable oil"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

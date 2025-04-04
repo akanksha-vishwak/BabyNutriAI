@@ -1,0 +1,46 @@
+[
+  {
+    "chunk": "Fruity porridge recipe A deliciously creamy warm breakfast with added fruit. If you're making this for children over 5 years, simply swap to lower-fat milks and yoghurts. Age: 10 to 12 months Prep: 5 mins Cook: 5 mins Portions: 1 Ingredients - 2 tbsp (20g) porridge oats - 120ml full-fat milk - 1/4 medium banana - 10g frozen berries - 1tsp plain full-fat yoghurt Method Put the porridge oats and milk into a saucepan. Heat up, stirring constantly, until the porridge thickens. Then reduce the heat and simmer gently for 2 to 3 minutes, stirring until the oats are cooked. Slice the banana into finger-sized sticks. Add a little more milk if your baby prefers it a little runnier. Pour the porridge into a bowl, add the yogurt and serve with the banana sticks. Stir the blueberries into the porridge and heat through until completely soft. Weaning tip Try giving",
+    "chunk_id": "fruity_porridge_0",
+    "title": "Fruity Porridge",
+    "description": "A deliciously creamy warm breakfast with added fruit. If you're making this for children over 5 years, simply swap to lower-fat milks and yoghurts.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fruity-porridge/",
+    "scraped_at": "2025-04-04T07:45:19.279730",
+    "tokens": 195,
+    "age_range": "10 to 12 months",
+    "prep_time": "5 mins",
+    "cook_time": "5 mins",
+    "portions": 1,
+    "ingredients": [
+      "2 tbsp (20g) porridge oats",
+      "120ml full-fat milk",
+      "1/4 medium banana",
+      "10g frozen berries",
+      "1tsp plain full-fat yoghurt"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "the porridge into a bowl, add the yogurt and serve with the banana sticks. Stir the blueberries into the porridge and heat through until completely soft. Weaning tip Try giving your baby a spoon so they can practice feeding themselves. It's messy so use a bib and a messy mat for easier cleaning!",
+    "chunk_id": "fruity_porridge_1",
+    "title": "Fruity Porridge",
+    "description": "A deliciously creamy warm breakfast with added fruit. If you're making this for children over 5 years, simply swap to lower-fat milks and yoghurts.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fruity-porridge/",
+    "scraped_at": "2025-04-04T07:45:19.279747",
+    "tokens": 68,
+    "age_range": "10 to 12 months",
+    "prep_time": "5 mins",
+    "cook_time": "5 mins",
+    "portions": 1,
+    "ingredients": [
+      "2 tbsp (20g) porridge oats",
+      "120ml full-fat milk",
+      "1/4 medium banana",
+      "10g frozen berries",
+      "1tsp plain full-fat yoghurt"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

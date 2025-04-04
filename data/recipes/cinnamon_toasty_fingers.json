@@ -1,0 +1,44 @@
+[
+  {
+    "chunk": "Cinnamon toasty fingers recipe This quick and tasty cinnamon toast is a great finger food breakfast for your baby to practice self-feeding while trying new flavours. For the over-5s in the family, just switch to reduced-fat vegetable spread and slice the banana instead of mashing. Age: 7 to 9 months Prep: 5 mins Cook: 3 mins Portions: 1 Ingredients - ¾ medium slice wholemeal bread - 1tsp vegetable oil spread - Pinch of ground cinnamon - ¼ medium banana, peeled and mashed Method Toast the bread in the toaster until golden brown. Meanwhile peel and mash the banana. Spread the vegetable spread evenly over the toasted bread, then sprinkle the cinnamon. Cut the bread into easy to eat finger slices and serve with the mashed banana in a side bowl with a spoon, or over the top of the toast slices. Give the rest of the banana as a snack",
+    "chunk_id": "cinnamon_toasty_fingers_0",
+    "title": "Cinnamon Toasty Fingers",
+    "description": "This quick and tasty cinnamon toast is a great finger food breakfast for your baby to practice self-feeding while trying new flavours. For the over-5s in the family, just switch to reduced-fat vegetable spread and slice the banana instead of mashing.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cinnamon-toasty-fingers/",
+    "scraped_at": "2025-04-04T07:45:16.878109",
+    "tokens": 195,
+    "age_range": "7 to 9 months",
+    "prep_time": "5 mins",
+    "cook_time": "3 mins",
+    "portions": 1,
+    "ingredients": [
+      "¾ medium slice wholemeal bread",
+      "1tsp vegetable oil spread",
+      "Pinch of ground cinnamon",
+      "¼ medium banana, peeled and mashed"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "and serve with the mashed banana in a side bowl with a spoon, or over the top of the toast slices. Give the rest of the banana as a snack for older children in the family, or for yourself. Weaning tip Finger foods help babies get used to different textures and also help develop hand-eye coordination.",
+    "chunk_id": "cinnamon_toasty_fingers_1",
+    "title": "Cinnamon Toasty Fingers",
+    "description": "This quick and tasty cinnamon toast is a great finger food breakfast for your baby to practice self-feeding while trying new flavours. For the over-5s in the family, just switch to reduced-fat vegetable spread and slice the banana instead of mashing.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cinnamon-toasty-fingers/",
+    "scraped_at": "2025-04-04T07:45:16.878128",
+    "tokens": 72,
+    "age_range": "7 to 9 months",
+    "prep_time": "5 mins",
+    "cook_time": "3 mins",
+    "portions": 1,
+    "ingredients": [
+      "¾ medium slice wholemeal bread",
+      "1tsp vegetable oil spread",
+      "Pinch of ground cinnamon",
+      "¼ medium banana, peeled and mashed"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

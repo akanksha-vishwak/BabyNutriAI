@@ -1,0 +1,40 @@
+[
+  {
+    "chunk": "Sweet potato fingers recipe Delicious baked sweet potato, sliced into easy-to-eat sticks for your baby. Age: 6 months or older Prep: 5 mins Cook: 25 mins Portions: 3 (approx) Ingredients - 1 small sweet potato, peeled - 1 tbsp vegetable oil Method Preheat the oven to 200C. Slice the sweet potato into finger-sized wedges – big enough for your baby to hold in their hand with the top half poking out. Rub the sweet potato wedges with the oil, then place on a baking tray. Bake in the oven for 20 to 30 minutes – cook until the sweet potato is soft and starting to brown a little. Allow to cool, remove any excess oil with kitchen paper before serving. Information: Serve with full-fat plain yoghurt for dipping. Weaning tip Finger foods help babies get used to different textures and also help develop hand-eye coordination.",
+    "chunk_id": "sweet_potato_fingers_0",
+    "title": "Sweet Potato Fingers",
+    "description": "Delicious baked sweet potato, sliced into easy-to-eat sticks for your baby.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/sweet-potato-fingers/",
+    "scraped_at": "2025-04-04T07:45:14.306589",
+    "tokens": 188,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "25 mins",
+    "portions": 3,
+    "ingredients": [
+      "1 small sweet potato, peeled",
+      "1 tbsp vegetable oil"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "Information: Serve with full-fat plain yoghurt for dipping. Weaning tip Finger foods help babies get used to different textures and also help develop hand-eye coordination.",
+    "chunk_id": "sweet_potato_fingers_1",
+    "title": "Sweet Potato Fingers",
+    "description": "Delicious baked sweet potato, sliced into easy-to-eat sticks for your baby.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/sweet-potato-fingers/",
+    "scraped_at": "2025-04-04T07:45:14.306607",
+    "tokens": 32,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "25 mins",
+    "portions": 3,
+    "ingredients": [
+      "1 small sweet potato, peeled",
+      "1 tbsp vegetable oil"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

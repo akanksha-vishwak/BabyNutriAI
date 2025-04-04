@@ -1,0 +1,40 @@
+[
+  {
+    "chunk": "Fruity stew recipe First tastes don’t have to be hard work! These warm stewed apples are easy to whip up and a great introduction to fruit for your baby. Age: 6 months or older Prep: 5 mins Cook: 10 mins Portions: 6 Ingredients - 1 large apple, peeled, cored and chopped - 75ml water Method Put the chopped apple into a saucepan and add 75ml of water. Cook on medium heat, stirring occasionally for 10 minutes or until apple pieces are completely soft. If the apples start to stick to the bottom of the pan, add a little more water. Pour the stewed apple into a bowl and stir. Press out any lumps for a smooth consistency. Cool down before serving. Freeze any leftovers in small pots or ice cube trays. Add any left over fruit to cereal or porridge for a tasty breakfast. Weaning tip Try mashed and finger",
+    "chunk_id": "fruity_stew_0",
+    "title": "Fruity Stew",
+    "description": "First tastes don’t have to be hard work! These warm stewed apples are easy to whip up and a great introduction to fruit for your baby.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fruity-stew/",
+    "scraped_at": "2025-04-04T07:45:17.167575",
+    "tokens": 195,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "10 mins",
+    "portions": 6,
+    "ingredients": [
+      "1 large apple, peeled, cored and chopped",
+      "75ml water"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "serving. Freeze any leftovers in small pots or ice cube trays. Add any left over fruit to cereal or porridge for a tasty breakfast. Weaning tip Try mashed and finger foods as soon as your baby is ready, to help them learn to chew and swallow solid foods.",
+    "chunk_id": "fruity_stew_1",
+    "title": "Fruity Stew",
+    "description": "First tastes don’t have to be hard work! These warm stewed apples are easy to whip up and a great introduction to fruit for your baby.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fruity-stew/",
+    "scraped_at": "2025-04-04T07:45:17.167592",
+    "tokens": 62,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "10 mins",
+    "portions": 6,
+    "ingredients": [
+      "1 large apple, peeled, cored and chopped",
+      "75ml water"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

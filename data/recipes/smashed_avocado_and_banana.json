@@ -1,0 +1,40 @@
+[
+  {
+    "chunk": "Smashed avocado and banana This quick and easy no-cook recipe has a surprisingly tasty combination of avocado and banana, mashed to make a creamy delicious mix. Age: 6 months or older Prep: 10 mins Portions: 8 Ingredients - 1 medium ripe banana, chopped - 1 ripe avocado Method Place the chopped banana and avocado in a mixing bowl. Blend or mash together with a fork until smooth. Cover any leftovers and store in the fridge. Banana and avocado brown quickly so try to eat it within the same day. Information: Try adding full-fat yoghurt to the mixture for a creamier option. Weaning tip Try mashed and finger foods as soon as your baby is ready, to help them learn to chew and swallow solid foods.",
+    "chunk_id": "smashed_avocado_and_banana_0",
+    "title": "Smashed Avocado And Banana",
+    "description": "This quick and easy no-cook recipe has a surprisingly tasty combination of avocado and banana, mashed to make a creamy delicious mix.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/smashed-avocado-and-banana/",
+    "scraped_at": "2025-04-04T07:45:10.827415",
+    "tokens": 162,
+    "age_range": "6 months or older",
+    "prep_time": "10 mins",
+    "cook_time": null,
+    "portions": 8,
+    "ingredients": [
+      "1 medium ripe banana, chopped",
+      "1 ripe avocado"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "chew and swallow solid foods.",
+    "chunk_id": "smashed_avocado_and_banana_1",
+    "title": "Smashed Avocado And Banana",
+    "description": "This quick and easy no-cook recipe has a surprisingly tasty combination of avocado and banana, mashed to make a creamy delicious mix.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/smashed-avocado-and-banana/",
+    "scraped_at": "2025-04-04T07:45:10.827434",
+    "tokens": 6,
+    "age_range": "6 months or older",
+    "prep_time": "10 mins",
+    "cook_time": null,
+    "portions": 8,
+    "ingredients": [
+      "1 medium ripe banana, chopped",
+      "1 ripe avocado"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

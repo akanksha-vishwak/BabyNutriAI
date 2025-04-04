@@ -1,0 +1,48 @@
+[
+  {
+    "chunk": "Egg cups on toast recipe Eggs, mushrooms and parsley oven baked and served with toast and cooked tomatoes. This quick and easy recipe can be enjoyed for breakfast or lunch. Age: 12 months and older Prep: 10 mins Cook: 15 mins Portions: 4 Ingredients - 5 medium eggs - 4 or 5 mushrooms - 5g fresh parsley (1 tbsp, chopped) - 4 or 5 cherry tomatoes (1 portion) - 1 medium slice wholemeal bread (1 portion) - 1 tsp vegetable oil spread (1 portion) Method Preheat the oven to 180C, 360F, gas mark 4. Beat the egg. Roughly chop the mushrooms and parsley. Add the mushrooms to the egg and divide mixture evenly between 8 non-stick (or lightly oiled) muffin tray holes. Sprinkle each cup with parsley. Bake for 10 to 15 minutes, or until golden, and the eggs are cooked through (and not runny). Meanwhile, put 2 tbsp water",
+    "chunk_id": "egg_cups_on_toast_0",
+    "title": "Egg Cups On Toast",
+    "description": "Eggs, mushrooms and parsley oven baked and served with toast and cooked tomatoes. This quick and easy recipe can be enjoyed for breakfast or lunch.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/egg-cups-and-toast/",
+    "scraped_at": "2025-04-04T07:45:07.050172",
+    "tokens": 195,
+    "age_range": "12 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "15 mins",
+    "portions": 4,
+    "ingredients": [
+      "5 medium eggs",
+      "4 or 5 mushrooms",
+      "5g fresh parsley (1 tbsp, chopped)",
+      "4 or 5 cherry tomatoes (1 portion)",
+      "1 medium slice wholemeal bread (1 portion)",
+      "1 tsp vegetable oil spread (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "tray holes. Sprinkle each cup with parsley. Bake for 10 to 15 minutes, or until golden, and the eggs are cooked through (and not runny). Meanwhile, put 2 tbsp water and the quartered cherry tomatoes in a small saucepan. Heat gently for 2 to 3 minutes, stirring often, until the tomatoes are soft (if the tomatoes start sticking, add a little water). Then set aside. Turn out the breakfast cups onto a rack and allow to cool a little. Toast the bread, spread with vegetable spread, then cut into fingers. Serve 2 breakfast cups with the toast, mashed tomatoes and a spoon. Weaning tip Remember: cut small round foods like cherry tomatoes into small pieces to avoid choking.",
+    "chunk_id": "egg_cups_on_toast_1",
+    "title": "Egg Cups On Toast",
+    "description": "Eggs, mushrooms and parsley oven baked and served with toast and cooked tomatoes. This quick and easy recipe can be enjoyed for breakfast or lunch.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/egg-cups-and-toast/",
+    "scraped_at": "2025-04-04T07:45:07.050187",
+    "tokens": 153,
+    "age_range": "12 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "15 mins",
+    "portions": 4,
+    "ingredients": [
+      "5 medium eggs",
+      "4 or 5 mushrooms",
+      "5g fresh parsley (1 tbsp, chopped)",
+      "4 or 5 cherry tomatoes (1 portion)",
+      "1 medium slice wholemeal bread (1 portion)",
+      "1 tsp vegetable oil spread (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

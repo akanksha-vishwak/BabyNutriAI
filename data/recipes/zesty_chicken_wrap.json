@@ -1,0 +1,48 @@
+[
+  {
+    "chunk": "Zesty chicken wrap recipe Baked chicken marinated with lemon, served with cream cheese tortilla and cucumber strips, this could be a popular lunch for the whole family. Age: 12 months or older Prep: 10 mins Cook: 20 mins Portions: 1 Ingredients - 1 medium chicken breast, skinless - ½ lemon, juice only - 4 slices cucumber, washed (30g) - Small handful lettuce (10g) - 1 small tortilla wrap - 1 tsp full fat cream cheese Method Pre-heat the oven to 200C, 400F, gas mark 6. Slice the chicken into strips and pour the lemon juice over. Place the chicken fillets on a baking tray and roast in the oven for 15 to 20 minutes, until thoroughly cooked. Meanwhile, slice the lettuce and slice the cucumber pieces in half. Spread the tortilla with the cream cheese and add the sliced lettuce and cucumber. Place ¼ of the cooked chicken slices on",
+    "chunk_id": "zesty_chicken_wrap_0",
+    "title": "Zesty Chicken Wrap",
+    "description": "Baked chicken marinated with lemon, served with cream cheese tortilla and cucumber strips, this could be a popular lunch for the whole family.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/zesty-chicken-wrap/",
+    "scraped_at": "2025-04-04T07:45:13.153513",
+    "tokens": 195,
+    "age_range": "12 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 1,
+    "ingredients": [
+      "1 medium chicken breast, skinless",
+      "½ lemon, juice only",
+      "4 slices cucumber, washed (30g)",
+      "Small handful lettuce (10g)",
+      "1 small tortilla wrap",
+      "1 tsp full fat cream cheese"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "lettuce and slice the cucumber pieces in half. Spread the tortilla with the cream cheese and add the sliced lettuce and cucumber. Place ¼ of the cooked chicken slices on top and roll up the tortilla. Cut in half and serve. Freeze the remaining 3 portions of chicken slices for other days. Kids love getting involved with preparing and cooking meals. You could encourage your child to help you assemble the wrap with the prepared ingredients. Weaning tip From 12 months, your child should be having 3 meals a day. They may also need 2 healthy snacks in between.",
+    "chunk_id": "zesty_chicken_wrap_1",
+    "title": "Zesty Chicken Wrap",
+    "description": "Baked chicken marinated with lemon, served with cream cheese tortilla and cucumber strips, this could be a popular lunch for the whole family.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/zesty-chicken-wrap/",
+    "scraped_at": "2025-04-04T07:45:13.153533",
+    "tokens": 128,
+    "age_range": "12 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 1,
+    "ingredients": [
+      "1 medium chicken breast, skinless",
+      "½ lemon, juice only",
+      "4 slices cucumber, washed (30g)",
+      "Small handful lettuce (10g)",
+      "1 small tortilla wrap",
+      "1 tsp full fat cream cheese"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

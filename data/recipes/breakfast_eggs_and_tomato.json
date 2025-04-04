@@ -1,0 +1,44 @@
+[
+  {
+    "chunk": "Breakfast eggs and tomato recipe A great introduction to a healthier cooked breakfast – boiled eggs, toast fingers and tasty tomatoes will encourage your baby to feed themselves while trying new flavours. For children over 5 years, just use a lower fat spread and try including some extra veggies like cooked mushrooms. Age: 7 to 9 months Prep: 5 mins Cook: 10 mins Portions: 1 Ingredients - 3 cherry tomatoes, quartered - 1 medium egg - 1 small slice wholemeal bread - 1 tsp vegetable oil spread Method Put 2 tbsp of water in a small saucepan. Add the cherry tomatoes (quartered) and heat gently for 2 to 3 minutes, stirring often until the tomatoes are soft – then set aside. Bring another small saucepan of water to the boil. Gently place the egg into the pan and cook for 5 to 6 minutes. Once cooked, transfer to a bowl",
+    "chunk_id": "breakfast_eggs_and_tomato_0",
+    "title": "Breakfast Eggs And Tomato",
+    "description": "A great introduction to a healthier cooked breakfast – boiled eggs, toast fingers and tasty tomatoes will encourage your baby to feed themselves while trying new flavours. For children over 5 years, just use a lower fat spread and try including some extra veggies like cooked mushrooms.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/breakfast-eggs-and-tomato/",
+    "scraped_at": "2025-04-04T07:45:17.023499",
+    "tokens": 195,
+    "age_range": "7 to 9 months",
+    "prep_time": "5 mins",
+    "cook_time": "10 mins",
+    "portions": 1,
+    "ingredients": [
+      "3 cherry tomatoes, quartered",
+      "1 medium egg",
+      "1 small slice wholemeal bread",
+      "1 tsp vegetable oil spread"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "aside. Bring another small saucepan of water to the boil. Gently place the egg into the pan and cook for 5 to 6 minutes. Once cooked, transfer to a bowl of cold water to cool down. Toast the bread, then spread with vegetable oil spread and cut into fingers. Peel the egg and slice into fingers. Serve the boiled egg and toast fingers on a plate, with the cherry tomatoes (mashed up) on the side. Make sure the water is boiling before you add the egg! Weaning tip Remember: introduce foods that can trigger allergic reactions 1 at a time, in small amounts.",
+    "chunk_id": "breakfast_eggs_and_tomato_1",
+    "title": "Breakfast Eggs And Tomato",
+    "description": "A great introduction to a healthier cooked breakfast – boiled eggs, toast fingers and tasty tomatoes will encourage your baby to feed themselves while trying new flavours. For children over 5 years, just use a lower fat spread and try including some extra veggies like cooked mushrooms.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/breakfast-eggs-and-tomato/",
+    "scraped_at": "2025-04-04T07:45:17.023518",
+    "tokens": 133,
+    "age_range": "7 to 9 months",
+    "prep_time": "5 mins",
+    "cook_time": "10 mins",
+    "portions": 1,
+    "ingredients": [
+      "3 cherry tomatoes, quartered",
+      "1 medium egg",
+      "1 small slice wholemeal bread",
+      "1 tsp vegetable oil spread"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

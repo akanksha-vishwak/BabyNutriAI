@@ -1,0 +1,50 @@
+[
+  {
+    "chunk": "Mac, cheese and peas recipe A super quick and simple cooked lunch option of macaroni cheese with added vegetables. The peas in this recipe are great for encouraging your baby to practice their pincer grip! Age: 10 to 12 months Prep: 5 mins Cook: 25 mins Portions: 1 Ingredients - 20g macaroni pasta - 5g full fat hard cheese - ¼ small tomato - ½ tsp vegetable oil spread - ½ tsp plain flour - 40ml full-fat milk - 30g frozen peas Method Place the pasta in a small pan with cold water, bring to boil and cook for 10 to 12 minutes until pasta is soft. Grate the cheese and dice the tomatoes. Prepare a roux white sauce: melt the spread in a pan on a low heat. Once the spread has melted, add the flour and mix well. Gradually add the milk, stirring continuously until the sauce is",
+    "chunk_id": "mac_cheese_and_peas_0",
+    "title": "Mac, Cheese And Peas",
+    "description": "A super quick and simple cooked lunch option of macaroni cheese with added vegetables. The peas in this recipe are great for encouraging your baby to practice their pincer grip!",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/macaroni-cheese-and-peas/",
+    "scraped_at": "2025-04-04T07:45:16.181540",
+    "tokens": 195,
+    "age_range": "10 to 12 months",
+    "prep_time": "5 mins",
+    "cook_time": "25 mins",
+    "portions": 1,
+    "ingredients": [
+      "20g macaroni pasta",
+      "5g full fat hard cheese",
+      "¼ small tomato",
+      "½ tsp vegetable oil spread",
+      "½ tsp plain flour",
+      "40ml full-fat milk",
+      "30g frozen peas"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "the spread in a pan on a low heat. Once the spread has melted, add the flour and mix well. Gradually add the milk, stirring continuously until the sauce is smooth and thick. Add the grated cheese and diced tomatoes and mix well. Then combine the drained pasta with the cheese sauce. Bring a small saucepan of water to the boil, add the peas and cook for around 5 minutes until soft. Chop or mince the cooked dish to the desired consistency reserving some pasta for a finger food. Serve with the peas on the side. Weaning tip Give your baby a spoon or fork and let them practice self-feeding.",
+    "chunk_id": "mac_cheese_and_peas_1",
+    "title": "Mac, Cheese And Peas",
+    "description": "A super quick and simple cooked lunch option of macaroni cheese with added vegetables. The peas in this recipe are great for encouraging your baby to practice their pincer grip!",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/macaroni-cheese-and-peas/",
+    "scraped_at": "2025-04-04T07:45:16.181558",
+    "tokens": 143,
+    "age_range": "10 to 12 months",
+    "prep_time": "5 mins",
+    "cook_time": "25 mins",
+    "portions": 1,
+    "ingredients": [
+      "20g macaroni pasta",
+      "5g full fat hard cheese",
+      "¼ small tomato",
+      "½ tsp vegetable oil spread",
+      "½ tsp plain flour",
+      "40ml full-fat milk",
+      "30g frozen peas"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

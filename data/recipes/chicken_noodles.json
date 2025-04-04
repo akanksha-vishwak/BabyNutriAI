@@ -1,0 +1,50 @@
+[
+  {
+    "chunk": "Chicken noodles recipe This warm and tasty meal is quick to prepare, and a great way to introduce noodles to your baby. It can be enjoyed by the rest of the family too, simply serve as it is instead of blending or mashing. Age: 7 to 9 months Prep: 10 mins Cook: 25 mins Portions: 4 (approx) Ingredients - ¼ small onion, peeled (20g) - ¼ medium carrot, peeled (30g) - 125g chicken breast - 235ml boiling water - 1 tsp vegetable oil - 45g tinned sweetcorn - 60g egg noodles (dried) Method Slice the onion and carrots. Dice the chicken. Heat the oil in a saucepan. Add the chicken and cook for 5 to 6 minutes, until starting to brown. Add the onion, carrots and sweetcorn – cook for 3 to 4 minutes. Add the water, simmer for 5 minutes Finally, break the noodles up a little and add",
+    "chunk_id": "chicken_noodles_0",
+    "title": "Chicken Noodles",
+    "description": "This warm and tasty meal is quick to prepare, and a great way to introduce noodles to your baby. It can be enjoyed by the rest of the family too, simply serve as it is instead of blending or mashing.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chicken-noodles/",
+    "scraped_at": "2025-04-04T07:45:19.984476",
+    "tokens": 195,
+    "age_range": "7 to 9 months",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "¼ small onion, peeled (20g)",
+      "¼ medium carrot, peeled (30g)",
+      "125g chicken breast",
+      "235ml boiling water",
+      "1 tsp vegetable oil",
+      "45g tinned sweetcorn",
+      "60g egg noodles (dried)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "brown. Add the onion, carrots and sweetcorn – cook for 3 to 4 minutes. Add the water, simmer for 5 minutes Finally, break the noodles up a little and add to the pan. Simmer for a further 5 to 10 minutes until the chicken, vegetables and noodles are cooked. Add a little water during cooking if needed. Mash or blend until smooth (with soft lumps). Put quarter of the noodles in a bowl, and allow to cool a little before serving with a spoon or fork. Use frozen sweetcorn instead of tinned if preferred. Remember fresh, frozen, tinned, dried and juiced fruit and vegetables all count towards your 5 A Day.",
+    "chunk_id": "chicken_noodles_1",
+    "title": "Chicken Noodles",
+    "description": "This warm and tasty meal is quick to prepare, and a great way to introduce noodles to your baby. It can be enjoyed by the rest of the family too, simply serve as it is instead of blending or mashing.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chicken-noodles/",
+    "scraped_at": "2025-04-04T07:45:19.984495",
+    "tokens": 144,
+    "age_range": "7 to 9 months",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "¼ small onion, peeled (20g)",
+      "¼ medium carrot, peeled (30g)",
+      "125g chicken breast",
+      "235ml boiling water",
+      "1 tsp vegetable oil",
+      "45g tinned sweetcorn",
+      "60g egg noodles (dried)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

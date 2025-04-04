@@ -1,0 +1,44 @@
+[
+  {
+    "chunk": "Tuna dip recipe A simple but yummy dip for your baby to enjoy as a snack. Age: 12 months and older Prep: 15 mins Cook: None Portions: 4 (approx) Ingredients - 160g tinned tuna in spring water, drained - 1 tbsp mayonnaise - 2 tsp plain full-fat yoghurt - 35g wholemeal pitta bread, cut into thin slices Method Put the tuna into a bowl, mash with the mayonnaise and yoghurt to make a paste. Serve with pitta bread fingers. Any leftovers can be covered and stored in the fridge. Information: Try offering it with vegetable sticks such as cucumber or carrots, as an alternative to pitta bread. Weaning tip From 12 months, your child should be having 3 meals a day. They may also need 2 healthy snacks in between.",
+    "chunk_id": "tuna_dip_0",
+    "title": "Tuna Dip",
+    "description": "A simple but yummy dip for your baby to enjoy as a snack.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/tuna-dip/",
+    "scraped_at": "2025-04-04T07:45:16.037046",
+    "tokens": 169,
+    "age_range": "12 months and older",
+    "prep_time": "15 mins",
+    "cook_time": "None",
+    "portions": 4,
+    "ingredients": [
+      "160g tinned tuna in spring water, drained",
+      "1 tbsp mayonnaise",
+      "2 tsp plain full-fat yoghurt",
+      "35g wholemeal pitta bread, cut into thin slices"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "day. They may also need 2 healthy snacks in between.",
+    "chunk_id": "tuna_dip_1",
+    "title": "Tuna Dip",
+    "description": "A simple but yummy dip for your baby to enjoy as a snack.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/tuna-dip/",
+    "scraped_at": "2025-04-04T07:45:16.037062",
+    "tokens": 13,
+    "age_range": "12 months and older",
+    "prep_time": "15 mins",
+    "cook_time": "None",
+    "portions": 4,
+    "ingredients": [
+      "160g tinned tuna in spring water, drained",
+      "1 tbsp mayonnaise",
+      "2 tsp plain full-fat yoghurt",
+      "35g wholemeal pitta bread, cut into thin slices"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

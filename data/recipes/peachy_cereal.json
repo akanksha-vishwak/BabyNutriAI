@@ -1,0 +1,42 @@
+[
+  {
+    "chunk": "Peachy cereal Wheat bisks in whole milk with peach slices – a quick and easy breakfast for your baby. If you're making it for children over 5 years, just switch to skimmed milk. Age: 7 to 9 months Prep: 5 mins Portions: 1 Ingredients - 1 wheat bisk - 100ml whole milk - 25g canned peach slices (in juice, drained) Method Crumble the wheat bisks into a bowl. Add whole milk and leave to soak. Cut the peach slices into long fingers – big enough for your baby to hold, with the top half poking out of their hand. Serve the cereal with the peach slices on the side (to encourage self-feeding) Information: Try other fruit like banana, pear, mango or mandarin. Just cut into strips or slices and serve as finger food. Weaning tip Finger foods help babies get used to different textures and also help develop hand-eye coordination.",
+    "chunk_id": "peachy_cereal_0",
+    "title": "Peachy Cereal",
+    "description": "Wheat bisks in whole milk with peach slices – a quick and easy breakfast for your baby. If you're making it for children over 5 years, just switch to skimmed milk.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/peachy-cereal/",
+    "scraped_at": "2025-04-04T07:45:10.973653",
+    "tokens": 195,
+    "age_range": "7 to 9 months",
+    "prep_time": "5 mins",
+    "cook_time": null,
+    "portions": 1,
+    "ingredients": [
+      "1 wheat bisk",
+      "100ml whole milk",
+      "25g canned peach slices (in juice, drained)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "or mandarin. Just cut into strips or slices and serve as finger food. Weaning tip Finger foods help babies get used to different textures and also help develop hand-eye coordination.",
+    "chunk_id": "peachy_cereal_1",
+    "title": "Peachy Cereal",
+    "description": "Wheat bisks in whole milk with peach slices – a quick and easy breakfast for your baby. If you're making it for children over 5 years, just switch to skimmed milk.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/peachy-cereal/",
+    "scraped_at": "2025-04-04T07:45:10.973673",
+    "tokens": 39,
+    "age_range": "7 to 9 months",
+    "prep_time": "5 mins",
+    "cook_time": null,
+    "portions": 1,
+    "ingredients": [
+      "1 wheat bisk",
+      "100ml whole milk",
+      "25g canned peach slices (in juice, drained)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "chunk": "Creamy hotpot recipe This tasty chicken hotpot dinner with leeks and cream cheese is a great family all-rounder – perfect for your baby too. You can also freeze any leftovers. Age: 7 to 9 months Prep: 15 mins Cook: 25 mins Portions: 4 Ingredients - ½ medium leek - ½ medium carrot, peeled - 1 small potato, peeled - 1 tbsp green beans - 1 small chicken breast fillet - ½ tbsp vegetable oil - 150ml water - 1 small spear broccoli - 1 tbsp full-fat cream cheese Method Chop the leeks, carrots and potatoes. Trim and chop the beans. Dice the chicken. Heat the oil in a large pan. Add the chicken and fry for 2 to 3 minutes. Now add the leeks, carrots, potatoes, green beans and water, bring to the boil, cover and simmer for about 20 minutes until the chicken and vegetables are cooked. If you'd",
+    "chunk_id": "creamy_hotpot_0",
+    "title": "Creamy Hotpot",
+    "description": "This tasty chicken hotpot dinner with leeks and cream cheese is a great family all-rounder – perfect for your baby too. You can also freeze any leftovers.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/creamy-hotpot/",
+    "scraped_at": "2025-04-04T07:45:18.573975",
+    "tokens": 195,
+    "age_range": "7 to 9 months",
+    "prep_time": "15 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "½ medium leek",
+      "½ medium carrot, peeled",
+      "1 small potato, peeled",
+      "1 tbsp green beans",
+      "1 small chicken breast fillet",
+      "½ tbsp vegetable oil",
+      "150ml water",
+      "1 small spear broccoli",
+      "1 tbsp full-fat cream cheese"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "Now add the leeks, carrots, potatoes, green beans and water, bring to the boil, cover and simmer for about 20 minutes until the chicken and vegetables are cooked. If you'd like extra sauce, add a little more water during cooking. Meanwhile, bring a small pan of water to the boil, add the broccoli and cook for 3 to 4 minutes until soft (or microwave if you prefer). Turn the hotpot off the heat and stir in the cream cheese. Blend or mash the cooked hot pot until it is smooth with soft lumps. Serve ¼ of the hotpot with the cooked broccoli as a finger food. Swapping the chicken for haddock is a great way for your baby to try a fish dish.",
+    "chunk_id": "creamy_hotpot_1",
+    "title": "Creamy Hotpot",
+    "description": "This tasty chicken hotpot dinner with leeks and cream cheese is a great family all-rounder – perfect for your baby too. You can also freeze any leftovers.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/creamy-hotpot/",
+    "scraped_at": "2025-04-04T07:45:18.573994",
+    "tokens": 159,
+    "age_range": "7 to 9 months",
+    "prep_time": "15 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "½ medium leek",
+      "½ medium carrot, peeled",
+      "1 small potato, peeled",
+      "1 tbsp green beans",
+      "1 small chicken breast fillet",
+      "½ tbsp vegetable oil",
+      "150ml water",
+      "1 small spear broccoli",
+      "1 tbsp full-fat cream cheese"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "a fish dish.",
+    "chunk_id": "creamy_hotpot_2",
+    "title": "Creamy Hotpot",
+    "description": "This tasty chicken hotpot dinner with leeks and cream cheese is a great family all-rounder – perfect for your baby too. You can also freeze any leftovers.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/creamy-hotpot/",
+    "scraped_at": "2025-04-04T07:45:18.574006",
+    "tokens": 3,
+    "age_range": "7 to 9 months",
+    "prep_time": "15 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "½ medium leek",
+      "½ medium carrot, peeled",
+      "1 small potato, peeled",
+      "1 tbsp green beans",
+      "1 small chicken breast fillet",
+      "½ tbsp vegetable oil",
+      "150ml water",
+      "1 small spear broccoli",
+      "1 tbsp full-fat cream cheese"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

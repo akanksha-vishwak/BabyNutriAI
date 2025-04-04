@@ -1,0 +1,52 @@
+[
+  {
+    "chunk": "Butternut squash and red pepper soup recipe This delicious blend of vegetables and lentils makes a lunch the whole family can enjoy together on colder days. Freeze the extra portions for handy future meals. Age: 12 months and older Prep: 10 mins Cook: 30 mins Portions: 4 Ingredients - 220g butternut squash, peeled - ½ large red pepper, deseeded (100g) - ½ medium onion, peeled (75g) - 2tsp vegetable oil - ½ tsp dried herbs - 400ml water - 50g dried red lentils - Small slice wholemeal bread (1 portion) 25g Method De-seed butternut squash and pepper and dice into small pieces. Dice the onion. Heat the oil in a pan and add the butternut squash, pepper and onion. Cook until starting to soften (5 to 6 mins). Add the oregano, water and lentils. Bring to the boil, cover and simmer gently for 20 to 30 minutes until the veg",
+    "chunk_id": "butternut_squash_and_red_pepper_soup_0",
+    "title": "Butternut Squash And Red Pepper Soup",
+    "description": "This delicious blend of vegetables and lentils makes a lunch the whole family can enjoy together on colder days. Freeze the extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/butternut-squash-and-red-pepper-soup/",
+    "scraped_at": "2025-04-04T07:45:07.923928",
+    "tokens": 195,
+    "age_range": "12 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "30 mins",
+    "portions": 4,
+    "ingredients": [
+      "220g butternut squash, peeled",
+      "½ large red pepper, deseeded (100g)",
+      "½ medium onion, peeled (75g)",
+      "2tsp vegetable oil",
+      "½ tsp dried herbs",
+      "400ml water",
+      "50g dried red lentils",
+      "Small slice wholemeal bread (1 portion) 25g"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "until starting to soften (5 to 6 mins). Add the oregano, water and lentils. Bring to the boil, cover and simmer gently for 20 to 30 minutes until the veg is soft and the lentils are cooked. Add a little more water during cooking if needed. Set aside to cool a little before blending until smooth (or leave with a chunky texture if preferred). Then put ¼ of the soup into a bowl, and freeze the other 3 portions for other days. Toast the slice of bread and cut into toasted fingers to go on the side. Try serving with some cooked vegetable sticks as a finger food such as broccoli, green beans or courgette.",
+    "chunk_id": "butternut_squash_and_red_pepper_soup_1",
+    "title": "Butternut Squash And Red Pepper Soup",
+    "description": "This delicious blend of vegetables and lentils makes a lunch the whole family can enjoy together on colder days. Freeze the extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/butternut-squash-and-red-pepper-soup/",
+    "scraped_at": "2025-04-04T07:45:07.923966",
+    "tokens": 149,
+    "age_range": "12 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "30 mins",
+    "portions": 4,
+    "ingredients": [
+      "220g butternut squash, peeled",
+      "½ large red pepper, deseeded (100g)",
+      "½ medium onion, peeled (75g)",
+      "2tsp vegetable oil",
+      "½ tsp dried herbs",
+      "400ml water",
+      "50g dried red lentils",
+      "Small slice wholemeal bread (1 portion) 25g"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

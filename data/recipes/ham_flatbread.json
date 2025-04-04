@@ -1,0 +1,77 @@
+[
+  {
+    "chunk": "Ham flatbread recipe A great finger food, this flatbread makes a versatile and delicious snack. Age: 12 months and older Prep: 20 mins Cook: 10 mins Portions: 10 Ingredients - 50g self-raising flour (plus a little extra for kneading) - 50g wholemeal self-raising flour (if you don’t have wholemeal use self-raising ) - 100g plain full-fat yoghurt - 1 to 2 ham slices - 4 to 5 mushrooms - 40g mozzarella (or swap for hard cheese if preferred) - 40g full-fat hard cheese - 100g can chopped tomatoes (quarter of a can) Method Sift the flours into the mixing bowl. Add the yoghurt and stir until well mixed. Tip onto a clean, floured worktop and gently knead until smooth. Clean and flour the surface again, then roll out 1 large pizza base (or a few small ones). Leave to rest for 5 minutes. Pre-heat the grill to medium to hot.",
+    "chunk_id": "ham_flatbread_0",
+    "title": "Ham Flatbread",
+    "description": "A great finger food, this flatbread makes a versatile and delicious snack.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/ham-flatbread/",
+    "scraped_at": "2025-04-04T07:45:15.025136",
+    "tokens": 195,
+    "age_range": "12 months and older",
+    "prep_time": "20 mins",
+    "cook_time": "10 mins",
+    "portions": 10,
+    "ingredients": [
+      "50g self-raising flour (plus a little extra for kneading)",
+      "50g wholemeal self-raising flour (if you don’t have wholemeal use self-raising )",
+      "100g plain full-fat yoghurt",
+      "1 to 2 ham slices",
+      "4 to 5 mushrooms",
+      "40g mozzarella (or swap for hard cheese if preferred)",
+      "40g full-fat hard cheese",
+      "100g can chopped tomatoes (quarter of a can)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "and flour the surface again, then roll out 1 large pizza base (or a few small ones). Leave to rest for 5 minutes. Pre-heat the grill to medium to hot. Meanwhile, slice the ham and mushrooms and grate the cheese. Place a frying pan over a low to medium heat. Cook the flatbread pizza base(s) until crisp and golden on one side (approx. 5 minutes), then turn and repeat. Transfer to a baking sheet. Spread the tomatoes over the bread base then top with the ham, mushrooms and cheese. Place the flatbread under the grill until the cheese is bubbling and the vegetables are soft (5 to 10 minutes). Divide into portions, then cut 1 portion of flatbread into strips. Check it's not too hot before serving (cut off any hard bits of outer base). Freeze the remaining flatbread in strips for other days. Just defrost and heat thoroughly before",
+    "chunk_id": "ham_flatbread_1",
+    "title": "Ham Flatbread",
+    "description": "A great finger food, this flatbread makes a versatile and delicious snack.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/ham-flatbread/",
+    "scraped_at": "2025-04-04T07:45:15.025155",
+    "tokens": 195,
+    "age_range": "12 months and older",
+    "prep_time": "20 mins",
+    "cook_time": "10 mins",
+    "portions": 10,
+    "ingredients": [
+      "50g self-raising flour (plus a little extra for kneading)",
+      "50g wholemeal self-raising flour (if you don’t have wholemeal use self-raising )",
+      "100g plain full-fat yoghurt",
+      "1 to 2 ham slices",
+      "4 to 5 mushrooms",
+      "40g mozzarella (or swap for hard cheese if preferred)",
+      "40g full-fat hard cheese",
+      "100g can chopped tomatoes (quarter of a can)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "Check it's not too hot before serving (cut off any hard bits of outer base). Freeze the remaining flatbread in strips for other days. Just defrost and heat thoroughly before serving. Weaning tip Give your baby sips of water with their meals - rather than sweet drinks which can cause tooth decay.",
+    "chunk_id": "ham_flatbread_2",
+    "title": "Ham Flatbread",
+    "description": "A great finger food, this flatbread makes a versatile and delicious snack.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/ham-flatbread/",
+    "scraped_at": "2025-04-04T07:45:15.025166",
+    "tokens": 67,
+    "age_range": "12 months and older",
+    "prep_time": "20 mins",
+    "cook_time": "10 mins",
+    "portions": 10,
+    "ingredients": [
+      "50g self-raising flour (plus a little extra for kneading)",
+      "50g wholemeal self-raising flour (if you don’t have wholemeal use self-raising )",
+      "100g plain full-fat yoghurt",
+      "1 to 2 ham slices",
+      "4 to 5 mushrooms",
+      "40g mozzarella (or swap for hard cheese if preferred)",
+      "40g full-fat hard cheese",
+      "100g can chopped tomatoes (quarter of a can)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

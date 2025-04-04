@@ -1,0 +1,42 @@
+[
+  {
+    "chunk": "Apple and blueberry stew First tastes don't have to be hard work! These warm stewed apples are easy to whip up and a great introduction to fruit for your baby. Age: 6 months or older Prep: 5 mins Cook: 10 mins Portions: 5 Ingredients - 1 medium apple, peeled, cored and chopped - 60g frozen blueberries - 150ml water Method Put the chopped apple and blueberries into a saucepan, add 150ml water. Cook for around 10 minutes until the apple and blueberry are completely soft. If it sticks to the pan, add a little more water. Pour the mixture into a bowl and stir. Cool down and then serve. Information: Add the purée to cereal or porridge for a fruity breakfast dish. Weaning tip Try mashed and finger foods as soon as your baby is ready, to help them learn to chew and swallow solid foods.",
+    "chunk_id": "apple_and_blueberry_stew_0",
+    "title": "Apple And Blueberry Stew",
+    "description": "First tastes don't have to be hard work! These warm stewed apples are easy to whip up and a great introduction to fruit for your baby.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/apple-and-blueberry-stew/",
+    "scraped_at": "2025-04-04T07:45:11.531738",
+    "tokens": 189,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "10 mins",
+    "portions": 5,
+    "ingredients": [
+      "1 medium apple, peeled, cored and chopped",
+      "60g frozen blueberries",
+      "150ml water"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "breakfast dish. Weaning tip Try mashed and finger foods as soon as your baby is ready, to help them learn to chew and swallow solid foods.",
+    "chunk_id": "apple_and_blueberry_stew_1",
+    "title": "Apple And Blueberry Stew",
+    "description": "First tastes don't have to be hard work! These warm stewed apples are easy to whip up and a great introduction to fruit for your baby.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/apple-and-blueberry-stew/",
+    "scraped_at": "2025-04-04T07:45:11.531755",
+    "tokens": 33,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "10 mins",
+    "portions": 5,
+    "ingredients": [
+      "1 medium apple, peeled, cored and chopped",
+      "60g frozen blueberries",
+      "150ml water"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

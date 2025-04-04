@@ -1,0 +1,74 @@
+[
+  {
+    "chunk": "Chicken noodle stew recipe A simple warm lunch to make for your baby. Can be enjoyed by the rest of the family too, simply serve as it is instead of chopping up. Freeze extra portions for handy future meals. Age: 10 to 12 months Prep: 10 mins Cook: 25 mins Portions: 4 Ingredients - ¼ small onion, peeled (20g) - ¼ medium carrot, peeled (30g) - 125g chicken breast - 235ml boiling water - 1 tsp vegetable oil - 45g tinned sweetcorn - 60g egg noodles (dried) Method Slice the onion and carrots. Dice the chicken. Heat the oil in a saucepan. Add the chicken and cook for 5 to 6 minutes, until starting to brown. Add the onion, carrots and sweetcorn – cook for 3 to 4 minutes, then add the water and simmer for 5 minutes. Finally, break the noodles up a little and add to the pan.",
+    "chunk_id": "chicken_noodle_stew_0",
+    "title": "Chicken Noodle Stew",
+    "description": "A simple warm lunch to make for your baby. Can be enjoyed by the rest of the family too, simply serve as it is instead of chopping up. Freeze extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chicken-noodle-stew/",
+    "scraped_at": "2025-04-04T07:45:07.343542",
+    "tokens": 195,
+    "age_range": "10 to 12 months",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "¼ small onion, peeled (20g)",
+      "¼ medium carrot, peeled (30g)",
+      "125g chicken breast",
+      "235ml boiling water",
+      "1 tsp vegetable oil",
+      "45g tinned sweetcorn",
+      "60g egg noodles (dried)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "and sweetcorn – cook for 3 to 4 minutes, then add the water and simmer for 5 minutes. Finally, break the noodles up a little and add to the pan. Simmer for a further 5 to 10 minutes until the chicken, vegetables and noodles are cooked. Add a little water during cooking if needed. Blend the soup, or chop noodles into small pieces. Put quarter of the noodles in a bowl, and allow to cool a little before serving with a spoon or fork. Use frozen sweetcorn instead of tinned if preferred. Remember fresh, frozen, tinned, dried and juiced fruit and vegetables all count towards your 5 A Day. Weaning tip Give your baby sips of water with their meals - rather than sweet drinks which can cause tooth decay.",
+    "chunk_id": "chicken_noodle_stew_1",
+    "title": "Chicken Noodle Stew",
+    "description": "A simple warm lunch to make for your baby. Can be enjoyed by the rest of the family too, simply serve as it is instead of chopping up. Freeze extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chicken-noodle-stew/",
+    "scraped_at": "2025-04-04T07:45:07.343561",
+    "tokens": 169,
+    "age_range": "10 to 12 months",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "¼ small onion, peeled (20g)",
+      "¼ medium carrot, peeled (30g)",
+      "125g chicken breast",
+      "235ml boiling water",
+      "1 tsp vegetable oil",
+      "45g tinned sweetcorn",
+      "60g egg noodles (dried)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "- rather than sweet drinks which can cause tooth decay.",
+    "chunk_id": "chicken_noodle_stew_2",
+    "title": "Chicken Noodle Stew",
+    "description": "A simple warm lunch to make for your baby. Can be enjoyed by the rest of the family too, simply serve as it is instead of chopping up. Freeze extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chicken-noodle-stew/",
+    "scraped_at": "2025-04-04T07:45:07.343572",
+    "tokens": 13,
+    "age_range": "10 to 12 months",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "¼ small onion, peeled (20g)",
+      "¼ medium carrot, peeled (30g)",
+      "125g chicken breast",
+      "235ml boiling water",
+      "1 tsp vegetable oil",
+      "45g tinned sweetcorn",
+      "60g egg noodles (dried)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

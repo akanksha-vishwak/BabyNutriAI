@@ -1,0 +1,40 @@
+[
+  {
+    "chunk": "Lemony chicken strips recipe Strips of chicken with a touch of zesty lemon. Age: 6 months and older Prep: 5 mins Cook: 25 mins Portions: 3 (approx) Ingredients - 1 medium chicken breast, skinless - ½ lemon, juice only Method Preheat the oven to 200C. Slice the chicken into finger-sized pieces – big enough for baby to grasp with half sticking out the top of their hand. Place the chicken breast on a baking tray and squeeze the lemon juice over the chicken. Put the chicken in the oven for 15 to 20 minutes, until fully cooked through and tender. Allow to cool before serving. Information: Try adding some herbs before cooking so your baby can try different flavour combinations. Weaning tip Finger foods help babies get used to different textures and also help develop hand-eye coordination.",
+    "chunk_id": "lemony_chicken_strips_0",
+    "title": "Lemony Chicken Strips",
+    "description": "Strips of chicken with a touch of zesty lemon.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/lemony-chicken-strips/",
+    "scraped_at": "2025-04-04T07:45:14.591280",
+    "tokens": 178,
+    "age_range": "6 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "25 mins",
+    "portions": 3,
+    "ingredients": [
+      "1 medium chicken breast, skinless",
+      "½ lemon, juice only"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "Weaning tip Finger foods help babies get used to different textures and also help develop hand-eye coordination.",
+    "chunk_id": "lemony_chicken_strips_1",
+    "title": "Lemony Chicken Strips",
+    "description": "Strips of chicken with a touch of zesty lemon.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/lemony-chicken-strips/",
+    "scraped_at": "2025-04-04T07:45:14.591296",
+    "tokens": 22,
+    "age_range": "6 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "25 mins",
+    "portions": 3,
+    "ingredients": [
+      "1 medium chicken breast, skinless",
+      "½ lemon, juice only"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

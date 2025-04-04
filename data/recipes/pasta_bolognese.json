@@ -1,0 +1,54 @@
+[
+  {
+    "chunk": "Pasta bolognese recipe A family classic of beef bolognese with spaghetti to introduce to your baby. You can freeze the extra portions for handy future meals. Age: 7 to 9 months Prep: 10 mins Cook: 35 mins Portions: 4 (approx) Ingredients - ½ onion, peeled (30g) - ½ small pepper (30g) - 1 tsp vegetable oil - 90g minced beef, lean - 2 mushrooms (30g) - 150g chopped canned tomatoes - 5 basil leaves, chopped (optional) - 40ml water - 15g spaghetti (1 portion) Method Finely dice the onion and pepper. Heat the vegetable oil in a saucepan, add the onion and cook for 1-2 minutes until softened. Add the mince to the pan and cook for 3-5mins until starting to brown. Dice the mushrooms, then add to the pan along with the tomatoes, basil (if using) and water. Cook for 20 to 30 minutes until the meat and veg",
+    "chunk_id": "pasta_bolognese_0",
+    "title": "Pasta Bolognese",
+    "description": "A family classic of beef bolognese with spaghetti to introduce to your baby. You can freeze the extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/pasta-bolognese/",
+    "scraped_at": "2025-04-04T07:45:20.125515",
+    "tokens": 195,
+    "age_range": "7 to 9 months",
+    "prep_time": "10 mins",
+    "cook_time": "35 mins",
+    "portions": 4,
+    "ingredients": [
+      "½ onion, peeled (30g)",
+      "½ small pepper (30g)",
+      "1 tsp vegetable oil",
+      "90g minced beef, lean",
+      "2 mushrooms (30g)",
+      "150g chopped canned tomatoes",
+      "5 basil leaves, chopped (optional)",
+      "40ml water",
+      "15g spaghetti (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "to brown. Dice the mushrooms, then add to the pan along with the tomatoes, basil (if using) and water. Cook for 20 to 30 minutes until the meat and veg are cooked and the sauce has thickened. Put the pasta in a bowl, place ¼ of the bolognese mix over the top and serve with a fork. Blend or mash the meal if preferred. Swap the beef mince for lentils or soya mince for a vegetarian alternative. In the meantime bring a pan of water to the boil, add the spaghetti and cook for 10 to 12 minutes until soft. Then drain.",
+    "chunk_id": "pasta_bolognese_1",
+    "title": "Pasta Bolognese",
+    "description": "A family classic of beef bolognese with spaghetti to introduce to your baby. You can freeze the extra portions for handy future meals.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/pasta-bolognese/",
+    "scraped_at": "2025-04-04T07:45:20.125535",
+    "tokens": 132,
+    "age_range": "7 to 9 months",
+    "prep_time": "10 mins",
+    "cook_time": "35 mins",
+    "portions": 4,
+    "ingredients": [
+      "½ onion, peeled (30g)",
+      "½ small pepper (30g)",
+      "1 tsp vegetable oil",
+      "90g minced beef, lean",
+      "2 mushrooms (30g)",
+      "150g chopped canned tomatoes",
+      "5 basil leaves, chopped (optional)",
+      "40ml water",
+      "15g spaghetti (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

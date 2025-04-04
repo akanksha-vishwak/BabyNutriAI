@@ -1,0 +1,46 @@
+[
+  {
+    "chunk": "Banana and berry porridge recipe A deliciously creamy warm breakfast with added fruit. If you're making this for children over 5 years, simply swap to lower-fat milks and yoghurts. Age: 12 months and older Prep: 5 mins Cook: 5 mins Portions: 1 Ingredients - 2 tbsp (20g) porridge oats - 120ml full-fat milk - 1/2 small banana - 10g frozen berries - 1 tsp plain full-fat yoghurt Method Put the porridge oats and milk into a saucepan. Heat up, stirring constantly, until the porridge thickens. Then reduce the heat and simmer gently for 2 to 3 minutes, stirring until the oats are cooked. Slice the banana into finger-sized sticks. Stir the blueberries into the porridge and heat through until soft. Add a little more milk if your baby prefers it a little runnier. Pour the porridge into a bowl, add the yoghurt and serve with the banana sticks. Try adding",
+    "chunk_id": "banana_and_berry_porridge_0",
+    "title": "Banana And Berry Porridge",
+    "description": "A deliciously creamy warm breakfast with added fruit. If you're making this for children over 5 years, simply swap to lower-fat milks and yoghurts.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/banana-and-berry-porridge/",
+    "scraped_at": "2025-04-04T07:45:15.611624",
+    "tokens": 195,
+    "age_range": "12 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "5 mins",
+    "portions": 1,
+    "ingredients": [
+      "2 tbsp (20g) porridge oats",
+      "120ml full-fat milk",
+      "1/2 small banana",
+      "10g frozen berries",
+      "1 tsp plain full-fat yoghurt"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "Add a little more milk if your baby prefers it a little runnier. Pour the porridge into a bowl, add the yoghurt and serve with the banana sticks. Try adding a sprinkle of cinnamon once the porridge is cooked for a warm wintery flavour. Weaning tip Remember, babies don’t need salt or sugar added to their food (or cooking water).",
+    "chunk_id": "banana_and_berry_porridge_1",
+    "title": "Banana And Berry Porridge",
+    "description": "A deliciously creamy warm breakfast with added fruit. If you're making this for children over 5 years, simply swap to lower-fat milks and yoghurts.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/banana-and-berry-porridge/",
+    "scraped_at": "2025-04-04T07:45:15.611657",
+    "tokens": 78,
+    "age_range": "12 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "5 mins",
+    "portions": 1,
+    "ingredients": [
+      "2 tbsp (20g) porridge oats",
+      "120ml full-fat milk",
+      "1/2 small banana",
+      "10g frozen berries",
+      "1 tsp plain full-fat yoghurt"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

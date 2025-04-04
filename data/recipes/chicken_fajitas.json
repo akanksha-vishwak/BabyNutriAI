@@ -1,0 +1,56 @@
+[
+  {
+    "chunk": "Chicken fajitas recipe Chicken strips marinated in a variety of spices and stir-fried with pepper and onions, wrapped in a tortilla. Fun for the whole family to enjoy together. Age: 12 months or older Prep: 15 mins Cook: 20 mins Portions: 4 Ingredients - 1 ¼ red pepper, deseeded - 1 ½ small onion, peeled - ½ tsp paprika - ¼ tsp mild chilli powder - 1 small clove garlic, crushed - ½ tsp ground cumin - 2 tsp vegetable oil - 2 small chicken breast fillets - ½ medium tortilla wrap (1 portion) - ½ tbsp. plain full fat yoghurt (1 portion) Method De-seed the pepper and slice. Peel and slice the onion. Slice the chicken into finger strips. Mix all of the spices with the oil and coat the vegetables, garlic and chicken in a bowl. Cover and leave to marinade in the fridge for 5 minutes. On",
+    "chunk_id": "chicken_fajitas_0",
+    "title": "Chicken Fajitas",
+    "description": "Chicken strips marinated in a variety of spices and stir-fried with pepper and onions, wrapped in a tortilla. Fun for the whole family to enjoy together.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chicken-fajitas/",
+    "scraped_at": "2025-04-04T07:45:16.453082",
+    "tokens": 195,
+    "age_range": "12 months or older",
+    "prep_time": "15 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 ¼ red pepper, deseeded",
+      "1 ½ small onion, peeled",
+      "½ tsp paprika",
+      "¼ tsp mild chilli powder",
+      "1 small clove garlic, crushed",
+      "½ tsp ground cumin",
+      "2 tsp vegetable oil",
+      "2 small chicken breast fillets",
+      "½ medium tortilla wrap (1 portion)",
+      "½ tbsp. plain full fat yoghurt (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "Mix all of the spices with the oil and coat the vegetables, garlic and chicken in a bowl. Cover and leave to marinade in the fridge for 5 minutes. On a medium heat, cook the chicken and vegetable mixture in a frying pan for 10 to 15 minutes until the chicken is cooked through and the vegetables have softened. Place ¼ of the chicken and vegetable mix in centre of the tortilla, with a small spoonful of yoghurt and roll up tightly. Cut into smaller sections if it’s easier for your baby to handle. You could serve with 15g grated cheese and some mashed avocado.",
+    "chunk_id": "chicken_fajitas_1",
+    "title": "Chicken Fajitas",
+    "description": "Chicken strips marinated in a variety of spices and stir-fried with pepper and onions, wrapped in a tortilla. Fun for the whole family to enjoy together.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chicken-fajitas/",
+    "scraped_at": "2025-04-04T07:45:16.453104",
+    "tokens": 136,
+    "age_range": "12 months or older",
+    "prep_time": "15 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 ¼ red pepper, deseeded",
+      "1 ½ small onion, peeled",
+      "½ tsp paprika",
+      "¼ tsp mild chilli powder",
+      "1 small clove garlic, crushed",
+      "½ tsp ground cumin",
+      "2 tsp vegetable oil",
+      "2 small chicken breast fillets",
+      "½ medium tortilla wrap (1 portion)",
+      "½ tbsp. plain full fat yoghurt (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

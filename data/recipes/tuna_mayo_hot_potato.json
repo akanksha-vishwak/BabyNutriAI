@@ -1,0 +1,48 @@
+[
+  {
+    "chunk": "Tuna mayo hot potato recipe Introduce your baby to a lunchtime classic – jacket potato with a tuna and mayonnaise filling. Serve with carrot and cucumber sticks on the side. Age: 10 to 12 months Prep: 15 mins Cook: 20 mins Portions: 4 Ingredients - 1 small baking potato (1/3 to serve, 30g) - 1 small tinned tuna in spring water, drained (130g) - 1 heaped tsp mayonnaise (15g) - 1 tsp plain whole milk yoghurt - 15g carrot, peeled (1 portion) - 15g cucumber (1 portion) Method Prick the potato a few times with a fork, place on a plate and microwave on high for 5 minutes. Turn over and microwave for a further 5 minutes until soft. Carefully cut open once cooled a little. Flake the tuna into a bowl, add the mayonnaise and yoghurt – mix well. Cut the carrot and cucumber into finger sticks. Once the",
+    "chunk_id": "tuna_mayo_hot_potato_0",
+    "title": "Tuna Mayo Hot Potato",
+    "description": "Introduce your baby to a lunchtime classic – jacket potato with a tuna and mayonnaise filling. Serve with carrot and cucumber sticks on the side.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/tuna-mayo-hot-potato/",
+    "scraped_at": "2025-04-04T07:45:16.317465",
+    "tokens": 195,
+    "age_range": "10 to 12 months",
+    "prep_time": "15 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 small baking potato (1/3 to serve, 30g)",
+      "1 small tinned tuna in spring water, drained (130g)",
+      "1 heaped tsp mayonnaise (15g)",
+      "1 tsp plain whole milk yoghurt",
+      "15g carrot, peeled (1 portion)",
+      "15g cucumber (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "cut open once cooled a little. Flake the tuna into a bowl, add the mayonnaise and yoghurt – mix well. Cut the carrot and cucumber into finger sticks. Once the potato is cool, chop it up, add 30g of the tuna mayo mix and serve with the vegetable sticks. Put leftover tuna mayo in an airtight container – store in the fridge. For extra veg, add some tinned sweetcorn to the tuna mayo mix.",
+    "chunk_id": "tuna_mayo_hot_potato_1",
+    "title": "Tuna Mayo Hot Potato",
+    "description": "Introduce your baby to a lunchtime classic – jacket potato with a tuna and mayonnaise filling. Serve with carrot and cucumber sticks on the side.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/tuna-mayo-hot-potato/",
+    "scraped_at": "2025-04-04T07:45:16.317483",
+    "tokens": 96,
+    "age_range": "10 to 12 months",
+    "prep_time": "15 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 small baking potato (1/3 to serve, 30g)",
+      "1 small tinned tuna in spring water, drained (130g)",
+      "1 heaped tsp mayonnaise (15g)",
+      "1 tsp plain whole milk yoghurt",
+      "15g carrot, peeled (1 portion)",
+      "15g cucumber (1 portion)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

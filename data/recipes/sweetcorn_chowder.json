@@ -1,0 +1,48 @@
+[
+  {
+    "chunk": "Sweetcorn chowder recipe Quick and simple to prepare, this warm and creamy sweetcorn chowder makes a great first taste recipe and is easy to adapt for the whole family to enjoy too. Age: 6 months or older Prep: 5 mins Cook: 15 mins Portions: 8 Ingredients - 1 tin of sweetcorn (160g) - 1 small garlic clove, crushed - 1 tsp vegetable oil - 1 quarter small onion, diced - 200ml whole milk - 1 quarter tsp mixed herbs (option) Method Put the oil in a saucepan. Add the onion and garlic and cook for 1 to 2 minutes until softened. Add the sweetcorn and milk. Bring to the boil, then reduce heat and simmer for about 15 minutes. Allow to cool, then purée or mash the stew to a smooth consistency. Serve 1 portion (approximately 40g) of the stew in a bowl with a spoon. Any leftovers can go",
+    "chunk_id": "sweetcorn_chowder_0",
+    "title": "Sweetcorn Chowder",
+    "description": "Quick and simple to prepare, this warm and creamy sweetcorn chowder makes a great first taste recipe and is easy to adapt for the whole family to enjoy too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/sweetcorn-chowder/",
+    "scraped_at": "2025-04-04T07:45:10.679448",
+    "tokens": 195,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "15 mins",
+    "portions": 8,
+    "ingredients": [
+      "1 tin of sweetcorn (160g)",
+      "1 small garlic clove, crushed",
+      "1 tsp vegetable oil",
+      "1 quarter small onion, diced",
+      "200ml whole milk",
+      "1 quarter tsp mixed herbs (option)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "to cool, then purée or mash the stew to a smooth consistency. Serve 1 portion (approximately 40g) of the stew in a bowl with a spoon. Any leftovers can go in an airtight container in the fridge for the next day. Freeze it if you want to keep for longer. Serve as part of a main meal for the rest of the family, with cooked vegetables and slices of wholemeal bread on the side. Weaning tip Give your baby sips of water with their meals - rather than sweet drinks which can cause tooth decay.",
+    "chunk_id": "sweetcorn_chowder_1",
+    "title": "Sweetcorn Chowder",
+    "description": "Quick and simple to prepare, this warm and creamy sweetcorn chowder makes a great first taste recipe and is easy to adapt for the whole family to enjoy too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/sweetcorn-chowder/",
+    "scraped_at": "2025-04-04T07:45:10.679467",
+    "tokens": 123,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "15 mins",
+    "portions": 8,
+    "ingredients": [
+      "1 tin of sweetcorn (160g)",
+      "1 small garlic clove, crushed",
+      "1 tsp vegetable oil",
+      "1 quarter small onion, diced",
+      "200ml whole milk",
+      "1 quarter tsp mixed herbs (option)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

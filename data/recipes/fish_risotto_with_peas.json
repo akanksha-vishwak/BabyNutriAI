@@ -1,0 +1,77 @@
+[
+  {
+    "chunk": "Fish risotto with peas A great recipe to introduce your baby to oily fish. It’s quick and easy to cook for the whole family too. For a vegetarian alternative swap the salmon for broad beans and cook the same time as the peas. Age: 7 to 9 months Prep: 10 mins Cook: 20 mins Portions: 1 (approx) Ingredients - 1/4 onion, peeled - 1/2 garlic clove, peeled - 150ml water - 1 small salmon fillet (1/2 to serve) - 1 tsp vegetable oil - 1 1/2 tbsp frozen peas - 25g white rice - 3 finger slices red pepper Method Preheat the oven to 180C. Dice the onion and garlic. Place the salmon in an ovenproof dish and bake for 15 to 20 minutes (until cooked through). Meanwhile, heat the oil in a pan and add the onion and garlic. Cook for 1 minute. Add the peas and rice and",
+    "chunk_id": "fish_risotto_with_peas_0",
+    "title": "Fish Risotto With Peas",
+    "description": "A great recipe to introduce your baby to oily fish. It’s quick and easy to cook for the whole family too. For a vegetarian alternative swap the salmon for broad beans and cook the same time as the peas.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fish-risotto-with-peas/",
+    "scraped_at": "2025-04-04T07:45:12.542376",
+    "tokens": 195,
+    "age_range": "7 to 9 months",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 1,
+    "ingredients": [
+      "1/4 onion, peeled",
+      "1/2 garlic clove, peeled",
+      "150ml water",
+      "1 small salmon fillet (1/2 to serve)",
+      "1 tsp vegetable oil",
+      "1 1/2 tbsp frozen peas",
+      "25g white rice",
+      "3 finger slices red pepper"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "15 to 20 minutes (until cooked through). Meanwhile, heat the oil in a pan and add the onion and garlic. Cook for 1 minute. Add the peas and rice and stir. Add the water until the rice and vegetables are covered and stir. Cover and simmer gently until the majority of the water has been absorbed and the rice is cooked, approx 10 minutes. Check to see if the rice is cooked, if not, add more water and continue to simmer until cooked. Flake in half the salmon and combine well. Blend or mash the cooked risotto until it is smooth with soft lumps. Serve with the cooked red pepper sticks as a finger food. Instead of baking fresh or frozen salmon use tinned salmon (drained) flaked into the risotto.",
+    "chunk_id": "fish_risotto_with_peas_1",
+    "title": "Fish Risotto With Peas",
+    "description": "A great recipe to introduce your baby to oily fish. It’s quick and easy to cook for the whole family too. For a vegetarian alternative swap the salmon for broad beans and cook the same time as the peas.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fish-risotto-with-peas/",
+    "scraped_at": "2025-04-04T07:45:12.542406",
+    "tokens": 169,
+    "age_range": "7 to 9 months",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 1,
+    "ingredients": [
+      "1/4 onion, peeled",
+      "1/2 garlic clove, peeled",
+      "150ml water",
+      "1 small salmon fillet (1/2 to serve)",
+      "1 tsp vegetable oil",
+      "1 1/2 tbsp frozen peas",
+      "25g white rice",
+      "3 finger slices red pepper"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "frozen salmon use tinned salmon (drained) flaked into the risotto.",
+    "chunk_id": "fish_risotto_with_peas_2",
+    "title": "Fish Risotto With Peas",
+    "description": "A great recipe to introduce your baby to oily fish. It’s quick and easy to cook for the whole family too. For a vegetarian alternative swap the salmon for broad beans and cook the same time as the peas.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/fish-risotto-with-peas/",
+    "scraped_at": "2025-04-04T07:45:12.542417",
+    "tokens": 13,
+    "age_range": "7 to 9 months",
+    "prep_time": "10 mins",
+    "cook_time": "20 mins",
+    "portions": 1,
+    "ingredients": [
+      "1/4 onion, peeled",
+      "1/2 garlic clove, peeled",
+      "150ml water",
+      "1 small salmon fillet (1/2 to serve)",
+      "1 tsp vegetable oil",
+      "1 1/2 tbsp frozen peas",
+      "25g white rice",
+      "3 finger slices red pepper"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

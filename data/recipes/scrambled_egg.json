@@ -1,0 +1,42 @@
+[
+  {
+    "chunk": "Scrambled egg recipe A super speedy and tasty way to introduce your baby to eggs. Age: 6 months and older Prep: 5 mins Cook: 3 mins Portions: 1 to 2 Ingredients - 1 small egg - 1 tbsp whole milk - 1 tsp vegetable oil spread Method Crack the egg into a small bowl and whisk. Add the whole milk to the egg and mix. Heat the vegetable oil spread in a non-stick saucepan. Remove from heat when the egg is cooked but not rubbery, allow to cool before serving. Information: Add the egg and cook on a low heat, stirring continuously until the egg scrambles. Information: Your baby will learn from you, so it's a great idea to eat with them when you can. Try adding an extra couple of eggs to the mix and serve on toast with tomatoes on the side for your lunch.",
+    "chunk_id": "scrambled_egg_0",
+    "title": "Scrambled Egg",
+    "description": "A super speedy and tasty way to introduce your baby to eggs.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/scrambled-egg/",
+    "scraped_at": "2025-04-04T07:45:20.410239",
+    "tokens": 191,
+    "age_range": "6 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "3 mins",
+    "portions": 1,
+    "ingredients": [
+      "1 small egg",
+      "1 tbsp whole milk",
+      "1 tsp vegetable oil spread"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "with them when you can. Try adding an extra couple of eggs to the mix and serve on toast with tomatoes on the side for your lunch.",
+    "chunk_id": "scrambled_egg_1",
+    "title": "Scrambled Egg",
+    "description": "A super speedy and tasty way to introduce your baby to eggs.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/scrambled-egg/",
+    "scraped_at": "2025-04-04T07:45:20.410255",
+    "tokens": 35,
+    "age_range": "6 months and older",
+    "prep_time": "5 mins",
+    "cook_time": "3 mins",
+    "portions": 1,
+    "ingredients": [
+      "1 small egg",
+      "1 tbsp whole milk",
+      "1 tsp vegetable oil spread"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

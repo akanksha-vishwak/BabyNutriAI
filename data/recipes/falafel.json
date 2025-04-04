@@ -1,0 +1,48 @@
+[
+  {
+    "chunk": "Falafel This tasty falafel recipe goes well with hummus for your baby to explore new tastes and textures. Falafel is great for lunchboxes too. Age: 6 months and older Prep: 10 mins Cook: 15 mins Portions: 10 (approx) Ingredients - 1 tin (400g) chickpeas (no added sugar or salt), drained - 1 tbsp lemon juice - 2 tbsp (40g) tahini - 1 tsp garlic puree (or 1 clove garlic roughly chopped) - half tsp paprika - 1 tbsp vegetable oil Method Place the chickpeas, lemon juice, tahini, garlic purée and paprika in a blender and blend until smooth. Add a little more lemon juice if mixture is too thick. Divide the mixture into small balls and flatten slightly. Heat the oil in a pan and cook the falafel on medium heat, for 2 to 3 minutes on each side, until golden. Allow to cool before serving one falafel in a",
+    "chunk_id": "falafel_0",
+    "title": "Falafel",
+    "description": "This tasty falafel recipe goes well with hummus for your baby to explore new tastes and textures. Falafel is great for lunchboxes too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/falafel/",
+    "scraped_at": "2025-04-04T07:45:11.108666",
+    "tokens": 195,
+    "age_range": "6 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "15 mins",
+    "portions": 10,
+    "ingredients": [
+      "1 tin (400g) chickpeas (no added sugar or salt), drained",
+      "1 tbsp lemon juice",
+      "2 tbsp (40g) tahini",
+      "1 tsp garlic puree (or 1 clove garlic roughly chopped)",
+      "half tsp paprika",
+      "1 tbsp vegetable oil"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "oil in a pan and cook the falafel on medium heat, for 2 to 3 minutes on each side, until golden. Allow to cool before serving one falafel in a bowl for your baby to explore. Information: Store the remaining falafel in an airtight container in the fridge, or freezer, for other days.",
+    "chunk_id": "falafel_1",
+    "title": "Falafel",
+    "description": "This tasty falafel recipe goes well with hummus for your baby to explore new tastes and textures. Falafel is great for lunchboxes too.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/falafel/",
+    "scraped_at": "2025-04-04T07:45:11.108686",
+    "tokens": 68,
+    "age_range": "6 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "15 mins",
+    "portions": 10,
+    "ingredients": [
+      "1 tin (400g) chickpeas (no added sugar or salt), drained",
+      "1 tbsp lemon juice",
+      "2 tbsp (40g) tahini",
+      "1 tsp garlic puree (or 1 clove garlic roughly chopped)",
+      "half tsp paprika",
+      "1 tbsp vegetable oil"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "chunk": "Delicious dhal recipe A great dish to introduce your baby to mild spices and lentils. Age: 6 months or older Prep: 5 mins Cook: 30 mins Portions: 8 Ingredients - Half medium onion, peeled - 2 to 3 sprigs (5g) fresh coriander - 65g yellow split peas - 1 tbsp vegetable oil - Half tsp garlic puree - Half tsp chilli powder - Half tsp ground turmeric - 2 tbsp water Method Chop the onion and coriander. Boil the split peas until tender and then drain (approx 20 to 30 minutes). Heat the oil in a pan, add the onions, garlic purée, chilli powder and turmeric – cook for 3 to 4 minutes until the onions start to soften. Add the cooked split peas and water to the pan, simmer for 5 minutes – add a little extra water if needed. Sprinkle with coriander then blend or mash until smooth",
+    "chunk_id": "delicious_dhal_0",
+    "title": "Delicious Dhal",
+    "description": "A great dish to introduce your baby to mild spices and lentils.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/delicious-dhal/",
+    "scraped_at": "2025-04-04T07:45:18.163887",
+    "tokens": 195,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "30 mins",
+    "portions": 8,
+    "ingredients": [
+      "Half medium onion, peeled",
+      "2 to 3 sprigs (5g) fresh coriander",
+      "65g yellow split peas",
+      "1 tbsp vegetable oil",
+      "Half tsp garlic puree",
+      "Half tsp chilli powder",
+      "Half tsp ground turmeric",
+      "2 tbsp water"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "the cooked split peas and water to the pan, simmer for 5 minutes – add a little extra water if needed. Sprinkle with coriander then blend or mash until smooth (but with soft lumps). Serve 1 portion in a bowl with a spoon. Information: Try serving with rice to introduce a new texture to your baby. More in recipe and meal ideas",
+    "chunk_id": "delicious_dhal_1",
+    "title": "Delicious Dhal",
+    "description": "A great dish to introduce your baby to mild spices and lentils.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/delicious-dhal/",
+    "scraped_at": "2025-04-04T07:45:18.163904",
+    "tokens": 80,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "30 mins",
+    "portions": 8,
+    "ingredients": [
+      "Half medium onion, peeled",
+      "2 to 3 sprigs (5g) fresh coriander",
+      "65g yellow split peas",
+      "1 tbsp vegetable oil",
+      "Half tsp garlic puree",
+      "Half tsp chilli powder",
+      "Half tsp ground turmeric",
+      "2 tbsp water"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

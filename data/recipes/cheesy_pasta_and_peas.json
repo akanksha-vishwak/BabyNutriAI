@@ -1,0 +1,50 @@
+[
+  {
+    "chunk": "Cheesy pasta and peas recipe A super quick cooked lunch option of macaroni cheese with added vegetables – a delicious combination for your baby to try. Age: 7 to 9 months Prep: 5 mins Cook: 20 mins Portions: 4 (approx) Ingredients - 20g macaroni pasta - 5g full-fat hard cheese - ¼ small tomato - ½ tsp vegetable oil spread - ½ tsp. plain flour - 40ml full-fat milk - 30g frozen peas Method Place the pasta in a small pan with cold water, bring to boil and cook for 10-12 minutes until pasta is soft. Grate the cheese, dice the tomatoes. Prepare a roux white sauce: melt the spread in a small pan on a low heat. Once the spread has melted, add the flour and mix well. Add the milk, stirring continuously until the sauce is smooth and thick. Add the grated cheese and diced tomatoes and mix",
+    "chunk_id": "cheesy_pasta_and_peas_0",
+    "title": "Cheesy Pasta And Peas",
+    "description": "A super quick cooked lunch option of macaroni cheese with added vegetables – a delicious combination for your baby to try.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cheesy-pasta-and-peas/",
+    "scraped_at": "2025-04-04T07:45:20.552595",
+    "tokens": 195,
+    "age_range": "7 to 9 months",
+    "prep_time": "5 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "20g macaroni pasta",
+      "5g full-fat hard cheese",
+      "¼ small tomato",
+      "½ tsp vegetable oil spread",
+      "½ tsp. plain flour",
+      "40ml full-fat milk",
+      "30g frozen peas"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "spread has melted, add the flour and mix well. Add the milk, stirring continuously until the sauce is smooth and thick. Add the grated cheese and diced tomatoes and mix well. Then combine the drained pasta with the cheese sauce. Bring a small saucepan of water to the boil, add the peas and cook for around 5-6 minutes until soft. Blend or mash the cooked dish until it is smooth with soft lumps, reserving some pasta for a finger food. Serve with the peas on the side. Add a twist by stirring some tinned salmon flakes into the pasta and cheese sauce just before serving.",
+    "chunk_id": "cheesy_pasta_and_peas_1",
+    "title": "Cheesy Pasta And Peas",
+    "description": "A super quick cooked lunch option of macaroni cheese with added vegetables – a delicious combination for your baby to try.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/cheesy-pasta-and-peas/",
+    "scraped_at": "2025-04-04T07:45:20.552614",
+    "tokens": 136,
+    "age_range": "7 to 9 months",
+    "prep_time": "5 mins",
+    "cook_time": "20 mins",
+    "portions": 4,
+    "ingredients": [
+      "20g macaroni pasta",
+      "5g full-fat hard cheese",
+      "¼ small tomato",
+      "½ tsp vegetable oil spread",
+      "½ tsp. plain flour",
+      "40ml full-fat milk",
+      "30g frozen peas"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "chunk": "Green mash recipe A blend of peas and courgette, a quick and easy veggie first taste. Age: 6 months or older Prep: 5 mins Cook: 8 mins Portions: 8 (approx) Ingredients - 1 medium courgette (approx 200g), washed and chopped - 100g frozen peas Method Bring a pan of water to the boil. Place the courgette and peas in the pan and cook for around 8 minutes until tender. Drain and allow to cool a little. Blend (or mash together with a fork) until smooth. If the mixture is too thick, add a little full-fat milk or your baby's usual milk. Cool down before serving. Freeze any leftovers in small pots or ice cube trays. Information: Add a little bit of cheese for a stronger flavour. Weaning tip Vegetables that aren't so sweet like peas, courgettes and broccoli, help your baby get used to other flavours.",
+    "chunk_id": "green_mash_0",
+    "title": "Green Mash",
+    "description": "A blend of peas and courgette, a quick and easy veggie first taste.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/green-mash/",
+    "scraped_at": "2025-04-04T07:45:17.315791",
+    "tokens": 189,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "8 mins",
+    "portions": 8,
+    "ingredients": [
+      "1 medium courgette (approx 200g), washed and chopped",
+      "100g frozen peas"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "of cheese for a stronger flavour. Weaning tip Vegetables that aren't so sweet like peas, courgettes and broccoli, help your baby get used to other flavours.",
+    "chunk_id": "green_mash_1",
+    "title": "Green Mash",
+    "description": "A blend of peas and courgette, a quick and easy veggie first taste.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/green-mash/",
+    "scraped_at": "2025-04-04T07:45:17.315807",
+    "tokens": 33,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "8 mins",
+    "portions": 8,
+    "ingredients": [
+      "1 medium courgette (approx 200g), washed and chopped",
+      "100g frozen peas"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

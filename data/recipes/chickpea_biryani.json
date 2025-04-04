@@ -1,0 +1,54 @@
+[
+  {
+    "chunk": "Chickpea biryani recipe A super easy but interesting 1-pot meal using mixed vegetables, chickpeas, rice and curry powder. Can be enjoyed by the rest of the family too – just serve it as is, rather than chopping up. Age: 12 months and older Prep: 10 mins Cook: 25 mins Portions: 4 (approx) Ingredients - 1 small onion, peeled (50g) - 1 1/2 medium carrot, peeled (90g) - 5 cauliflower florets (85g) - 1 tsp vegetable oil - 1/2 tbsp curry powder - 2 tbsp frozen peas (50g) - 200g tinned tinned chickpeas, no added sugar or salt, drained (5 tbsp) - 150g basmati rice - 400ml water Method Chop up the onion and carrot, break the cauliflower into florets. Heat the oil in a pan, add the curry powder and onion. Cook for a few minutes until the onion softens. Add the carrot, peas, cauliflower, chickpeas and rice – stir",
+    "chunk_id": "chickpea_biryani_0",
+    "title": "Chickpea Biryani",
+    "description": "A super easy but interesting 1-pot meal using mixed vegetables, chickpeas, rice and curry powder. Can be enjoyed by the rest of the family too – just serve it as is, rather than chopping up.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chickpea-biryani/",
+    "scraped_at": "2025-04-04T07:45:15.754526",
+    "tokens": 195,
+    "age_range": "12 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 small onion, peeled (50g)",
+      "1 1/2 medium carrot, peeled (90g)",
+      "5 cauliflower florets (85g)",
+      "1 tsp vegetable oil",
+      "1/2 tbsp curry powder",
+      "2 tbsp frozen peas (50g)",
+      "200g tinned tinned chickpeas, no added sugar or salt, drained (5 tbsp)",
+      "150g basmati rice",
+      "400ml water"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "the oil in a pan, add the curry powder and onion. Cook for a few minutes until the onion softens. Add the carrot, peas, cauliflower, chickpeas and rice – stir for 1 minute. Pour over the water, simmer gently with the lid on for 15 to 20 minutes until the rice is tender and the vegetables are cooked. Allow to cool. Serve a quarter of the biryani in a bowl. Serve with cooked cauliflower florets as a finger food. Weaning tip Give your baby sips of water with their meals – rather than sweet drinks which can cause tooth decay.",
+    "chunk_id": "chickpea_biryani_1",
+    "title": "Chickpea Biryani",
+    "description": "A super easy but interesting 1-pot meal using mixed vegetables, chickpeas, rice and curry powder. Can be enjoyed by the rest of the family too – just serve it as is, rather than chopping up.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chickpea-biryani/",
+    "scraped_at": "2025-04-04T07:45:15.754542",
+    "tokens": 130,
+    "age_range": "12 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "1 small onion, peeled (50g)",
+      "1 1/2 medium carrot, peeled (90g)",
+      "5 cauliflower florets (85g)",
+      "1 tsp vegetable oil",
+      "1/2 tbsp curry powder",
+      "2 tbsp frozen peas (50g)",
+      "200g tinned tinned chickpeas, no added sugar or salt, drained (5 tbsp)",
+      "150g basmati rice",
+      "400ml water"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

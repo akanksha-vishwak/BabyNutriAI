@@ -1,0 +1,50 @@
+[
+  {
+    "chunk": "Chicken, veg and noodle dinner recipe A simple warm meal with chicken, vegetables and noodles. You could even make it for the whole family to enjoy together. Age: 12 months and older Prep: 10 mins Cook: 25 mins Portions: 4 Ingredients - 1/2 small onion, peeled (30g) - 1/2 medium carrot, peeled (50g) - 210g chicken breast (1 small pack) - 400ml boiling water - 1 tsp vegetable oil - 75g tinned sweetcorn - 100g egg noodles (dried) Method Slice the onion and carrots. Dice the chicken. Heat the oil in a saucepan. Add the chicken and cook for 5 to 6 minutes, until starting to brown. Add the onion, carrots and sweetcorn – cook for 3 to 4 minutes. Add the water, simmer for 5 minutes Finally, break the noodles up a little and add to the pan. Simmer for a further 5 to 10 minutes until the chicken,",
+    "chunk_id": "chicken_veg_and_noodle_dinner_0",
+    "title": "Chicken, Veg And Noodle Dinner",
+    "description": "A simple warm meal with chicken, vegetables and noodles. You could even make it for the whole family to enjoy together.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chicken-veg-and-noodle-dinner/",
+    "scraped_at": "2025-04-04T07:45:15.168773",
+    "tokens": 195,
+    "age_range": "12 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "1/2 small onion, peeled (30g)",
+      "1/2 medium carrot, peeled (50g)",
+      "210g chicken breast (1 small pack)",
+      "400ml boiling water",
+      "1 tsp vegetable oil",
+      "75g tinned sweetcorn",
+      "100g egg noodles (dried)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "Add the water, simmer for 5 minutes Finally, break the noodles up a little and add to the pan. Simmer for a further 5 to 10 minutes until the chicken, vegetables and noodles are cooked. Add a little water during cooking if needed. Put quarter of the soup in a bowl, allow to cool a little before serving with a spoon or fork. Use frozen sweetcorn instead of tinned if preferred. Remember fresh, frozen, tinned, dried and juiced fruit and vegetables all count towards your 5 A Day.",
+    "chunk_id": "chicken_veg_and_noodle_dinner_1",
+    "title": "Chicken, Veg And Noodle Dinner",
+    "description": "A simple warm meal with chicken, vegetables and noodles. You could even make it for the whole family to enjoy together.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chicken-veg-and-noodle-dinner/",
+    "scraped_at": "2025-04-04T07:45:15.168791",
+    "tokens": 114,
+    "age_range": "12 months and older",
+    "prep_time": "10 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "1/2 small onion, peeled (30g)",
+      "1/2 medium carrot, peeled (50g)",
+      "210g chicken breast (1 small pack)",
+      "400ml boiling water",
+      "1 tsp vegetable oil",
+      "75g tinned sweetcorn",
+      "100g egg noodles (dried)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

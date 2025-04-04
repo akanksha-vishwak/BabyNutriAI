@@ -1,0 +1,54 @@
+[
+  {
+    "chunk": "Chicken and leek hotpot recipe Your baby will love tucking into this tasty chicken hotpot dinner with leeks and cream cheese. You can freeze any leftovers. Age: 10 to 12 months Prep: 15 mins Cook: 25 mins Portions: 4 Ingredients - ½ medium leek - ½ medium carrot, peeled - 1 small potato, peeled - 1 tbsp green beans - 1 small chicken breast fillet - ½ tbsp vegetable oil - 150ml water - 1 small spear broccoli - 1 tbsp full-fat cream cheese Method Chop the leeks, carrots and potatoes. Trim and chop the beans. Dice the chicken. Heat the oil in a large pan. Add the chicken and fry for 2 to 3 minutes. Add the leeks, carrots, potatoes, green beans and water, bring to the boil, cover and simmer for about 20 minutes until the vegetables and chicken are cooked. If you'd like extra sauce, add a",
+    "chunk_id": "chicken_and_leek_hotpot_0",
+    "title": "Chicken And Leek Hotpot",
+    "description": "Your baby will love tucking into this tasty chicken hotpot dinner with leeks and cream cheese. You can freeze any leftovers.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chicken-and-leek-hotpot/",
+    "scraped_at": "2025-04-04T07:45:17.455454",
+    "tokens": 195,
+    "age_range": "10 to 12 months",
+    "prep_time": "15 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "½ medium leek",
+      "½ medium carrot, peeled",
+      "1 small potato, peeled",
+      "1 tbsp green beans",
+      "1 small chicken breast fillet",
+      "½ tbsp vegetable oil",
+      "150ml water",
+      "1 small spear broccoli",
+      "1 tbsp full-fat cream cheese"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "potatoes, green beans and water, bring to the boil, cover and simmer for about 20 minutes until the vegetables and chicken are cooked. If you'd like extra sauce, add a little water during cooking. Meanwhile, bring a small pan of water to the boil, add the broccoli and cook for 3 to 4 minutes until soft (or microwave if you prefer). Turn the hotpot off the heat and stir in the cream cheese. Chop or mince the cooked hot pot. Serve ¼ of the hotpot with the cooked broccoli as a finger food. This is an easy-to-make and popular 1-pot meal for the whole family to enjoy together too.",
+    "chunk_id": "chicken_and_leek_hotpot_1",
+    "title": "Chicken And Leek Hotpot",
+    "description": "Your baby will love tucking into this tasty chicken hotpot dinner with leeks and cream cheese. You can freeze any leftovers.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/chicken-and-leek-hotpot/",
+    "scraped_at": "2025-04-04T07:45:17.455470",
+    "tokens": 141,
+    "age_range": "10 to 12 months",
+    "prep_time": "15 mins",
+    "cook_time": "25 mins",
+    "portions": 4,
+    "ingredients": [
+      "½ medium leek",
+      "½ medium carrot, peeled",
+      "1 small potato, peeled",
+      "1 tbsp green beans",
+      "1 small chicken breast fillet",
+      "½ tbsp vegetable oil",
+      "150ml water",
+      "1 small spear broccoli",
+      "1 tbsp full-fat cream cheese"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

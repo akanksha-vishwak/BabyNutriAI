@@ -1,0 +1,38 @@
+[
+  {
+    "chunk": "Broccoli recipe Introduce your baby to veggies with this quick and simple purée. Broccoli makes a great finger food too! Age: 6 months or older Prep: 5 mins Cook: 8 mins Portions: 7 Ingredients - 1 medium broccoli – stalks removed, washed and chopped into small chunks (approx 200g) Method Bring a pan of water to the boil, place chopped broccoli florets in the pan and cook until tender, about 8 minutes. Drain, then blend or mash with a fork to get a smooth consistency. If the mixture is too thick, add a little full-fat milk or baby's usual milk. Allow to cool before serving. Freeze any leftover portions in small pots or ice cube trays. Information: Instead of blending, cook for 6 to 8 minutes until soft and serve as a finger food. Weaning tip Vegetables that aren't so sweet, like broccoli, spinach and cauliflower help your baby get",
+    "chunk_id": "broccoli_0",
+    "title": "Broccoli",
+    "description": "Introduce your baby to veggies with this quick and simple purée. Broccoli makes a great finger food too!",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/broccoli/",
+    "scraped_at": "2025-04-04T07:45:19.560668",
+    "tokens": 195,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "8 mins",
+    "portions": 7,
+    "ingredients": [
+      "1 medium broccoli – stalks removed, washed and chopped into small chunks (approx 200g)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "cook for 6 to 8 minutes until soft and serve as a finger food. Weaning tip Vegetables that aren't so sweet, like broccoli, spinach and cauliflower help your baby get used to different flavours.",
+    "chunk_id": "broccoli_1",
+    "title": "Broccoli",
+    "description": "Introduce your baby to veggies with this quick and simple purée. Broccoli makes a great finger food too!",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/broccoli/",
+    "scraped_at": "2025-04-04T07:45:19.560687",
+    "tokens": 44,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "8 mins",
+    "portions": 7,
+    "ingredients": [
+      "1 medium broccoli – stalks removed, washed and chopped into small chunks (approx 200g)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

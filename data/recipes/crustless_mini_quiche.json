@@ -1,0 +1,50 @@
+[
+  {
+    "chunk": "Crustless mini quiche recipe These tasty little quiches, without pastry, are super quick to make. Make it a meal for the whole family by serving with new potatoes and your favourite vegetables. Age: 6 months or older Prep: 10 mins Cook: 15 mins Portions: 10 Ingredients - 1-2 tbsp vegetable oil - 5 spring onions (optional) - Half medium pepper (any colour), deseeded - 1 small tomato - 5 medium eggs - 2 tbsp full-fat milk - 1 tsp dried mixed herbs (optional) Method Pre-heat the oven to 200C / 400F / Gas Mark 6. Lightly grease a muffin tray. Finely dice the spring onions (if using), peppers and tomatoes. Distribute the vegetables between the muffin tray holes. Beat the eggs, milk and herbs together and pour over the vegetables in the muffin tray. Bake in the oven for 10 to 15 minutes, or until puffy, light brown and the",
+    "chunk_id": "crustless_mini_quiche_0",
+    "title": "Crustless Mini Quiche",
+    "description": "These tasty little quiches, without pastry, are super quick to make. Make it a meal for the whole family by serving with new potatoes and your favourite vegetables.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/crustless-mini-quiche/",
+    "scraped_at": "2025-04-04T07:45:19.841535",
+    "tokens": 195,
+    "age_range": "6 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "15 mins",
+    "portions": 10,
+    "ingredients": [
+      "1-2 tbsp vegetable oil",
+      "5 spring onions (optional)",
+      "Half medium pepper (any colour), deseeded",
+      "1 small tomato",
+      "5 medium eggs",
+      "2 tbsp full-fat milk",
+      "1 tsp dried mixed herbs (optional)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "eggs, milk and herbs together and pour over the vegetables in the muffin tray. Bake in the oven for 10 to 15 minutes, or until puffy, light brown and the eggs are set. Cool for a few minutes before serving. Offering your baby finger foods encourages them to learn to feed themselves, and helps develop their hand eye co-ordination skills.",
+    "chunk_id": "crustless_mini_quiche_1",
+    "title": "Crustless Mini Quiche",
+    "description": "These tasty little quiches, without pastry, are super quick to make. Make it a meal for the whole family by serving with new potatoes and your favourite vegetables.",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/crustless-mini-quiche/",
+    "scraped_at": "2025-04-04T07:45:19.841551",
+    "tokens": 78,
+    "age_range": "6 months or older",
+    "prep_time": "10 mins",
+    "cook_time": "15 mins",
+    "portions": 10,
+    "ingredients": [
+      "1-2 tbsp vegetable oil",
+      "5 spring onions (optional)",
+      "Half medium pepper (any colour), deseeded",
+      "1 small tomato",
+      "5 medium eggs",
+      "2 tbsp full-fat milk",
+      "1 tsp dried mixed herbs (optional)"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]

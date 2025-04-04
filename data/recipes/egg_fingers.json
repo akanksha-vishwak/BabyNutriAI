@@ -1,0 +1,38 @@
+[
+  {
+    "chunk": "Egg fingers recipe A quick and easy finger food – just boil, peel, slice and you’re done! Age: 6 months or older Prep: 5 mins Cook: 5 mins Portions: 2 (approx) Ingredients - 1 egg Method Bring a pan of water to the boil. Gently place the egg into the pan, boil for 5 minutes. Once cooked, place the egg in a bowl of cold water to cool down (2 to 3 minutes). When cool, peel the outer shell and slice the egg into quarters (4 fingers). Offer your baby 2 egg fingers. Information: Combine the egg fingers with one of our first taste recipes. Weaning tip Finger foods help babies get used to different textures and also help develop hand-eye coordination.",
+    "chunk_id": "egg_fingers_0",
+    "title": "Egg Fingers",
+    "description": "A quick and easy finger food – just boil, peel, slice and you’re done!",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/egg-fingers/",
+    "scraped_at": "2025-04-04T07:45:18.300849",
+    "tokens": 158,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "5 mins",
+    "portions": 2,
+    "ingredients": [
+      "1 egg"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  },
+  {
+    "chunk": "hand-eye coordination.",
+    "chunk_id": "egg_fingers_1",
+    "title": "Egg Fingers",
+    "description": "A quick and easy finger food – just boil, peel, slice and you’re done!",
+    "source_url": "https://www.nhs.uk/start-for-life/baby/recipes-and-meal-ideas/egg-fingers/",
+    "scraped_at": "2025-04-04T07:45:18.300866",
+    "tokens": 2,
+    "age_range": "6 months or older",
+    "prep_time": "5 mins",
+    "cook_time": "5 mins",
+    "portions": 2,
+    "ingredients": [
+      "1 egg"
+    ],
+    "weaning_tip": null,
+    "meal_type": "unknown"
+  }
+]
