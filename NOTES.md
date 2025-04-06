@@ -10,9 +10,51 @@
 - I still registered the BabyNutriAI app and received API key and secret. Didn't use it though.
 
 #### Scraping
-Extract the url from "https://www.nhs.uk/conditions/baby/weaning-and-feeding/":
+Extract the urls from "https://www.nhs.uk/conditions/baby/weaning-and-feeding/":
 - `trafilatura` didn't work so fallback to `bs4`
-- 
+
+### Fixing SentenceTransformer + Transformers Error on macOS
+
+#### Problem on Jupyter
+When trying to use `SentenceTransformer`, an error occurs:
+RuntimeError: Failed to import transformers.integrations.integration_utils... Your currently installed version of Keras is Keras 3, but this is not yet supported in Transformers.
+
+This is caused by an incompatibility between:
+- `transformers` (used by `sentence-transformers`)
+- `Keras 3` (installed by default)
+- Mac systems (especially with Python 3.11 or M1/M2 chips)
+
+#### Solution
+
+**Install tf-keras shim**
+
+```bash
+pip uninstall keras -y
+pip install tf-keras
+```
+
+#### Problem and solution on Terminal 
+- There were multiple errors with the version and what not
+- final solution was to install these 
+```bash
+
+python3.11 -m pip install "sentence-transformers==2.2.2" "transformers==4.30.2" "huggingface_hub==0.14.1"
+```
+
+#### Retrieving
+- In 1st attempt the answer for "meal option for 10 months with egg allergy" contained egg in the recipe
+- Used LLM to generate answer from the chunks and it did a good job but did not pick up the answer from my data of recipes
+- So, I chose to add fiters based on the age, allergy from ingredients 
+- After this the answer was from my data but too much from nhs guideline no recipe
+- Then I picked up 3 chunks from nhs and 3 from recipe making sure of the allergy and age
+- This worked very well but needed to refine the prompt to actually write the recipe not just mention the name
+- Answers look pretty good so far, tested for variety of questions. 
+- All the tests can be referred in the 03... notebook
+
+
+
+
+
 
 
 #### Want to do:
