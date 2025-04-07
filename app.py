@@ -6,6 +6,9 @@ import faiss
 import numpy as np
 import json
 import os
+os.environ["OMP_NUM_THREADS"] = "1" # Limit OpenMP threads to avoid performance issues
+os.environ["TOKENIZERS_PARALLELISM"] = "false" # Disable parallelism for tokenizers to avoid warnings
+from sentence_transformers import SentenceTransformer
 import uuid
 from utils.database import init_db, save_memory, get_past_messages
 
@@ -19,20 +22,26 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 # Initialize FastAPI app
 app = FastAPI(title="BabyNutri AI", description="AI-powered baby nutrition chatbot", version="1.0")
 
+# === CONFIG ===
+DATA_DIR = "data/combined"
+
+
 # Ensure FAISS index exists
-FAISS_INDEX_PATH = "recipe_index.faiss"
+FAISS_INDEX_PATH = os.path.join(DATA_DIR, "faiss_index.index")
 if not os.path.exists(FAISS_INDEX_PATH):
-    raise RuntimeError("FAISS index file is missing! Run `vector_store.py` first.")
+    raise RuntimeError("FAISS index file is missing! Run build_faiss.py to create it.")
 
 index = faiss.read_index(FAISS_INDEX_PATH)
 
+model = SentenceTransformer("multi-qa-MiniLM-L6-cos-v1")
+
 # Load recipe dataset
-RECIPE_FILE_PATH = "recipes.json"
+RECIPE_FILE_PATH = "chunk_metadata.json"
 if not os.path.exists(RECIPE_FILE_PATH):
-    raise RuntimeError("Recipes file is missing! Ensure `recipes.json` is in the project directory.")
+    raise RuntimeError("Recipes file is missing! Ensure `all_chunks.json` is in the project directory.")
 
 with open(RECIPE_FILE_PATH, "r") as f:
-    recipes = json.load(f)["recipes"]
+    recipes = json.load(f)["chunks"]
 
 
 # Request model for chatbot input
@@ -97,10 +106,7 @@ def search_recipes(ingredients: list) -> list:
         return []  # Return empty if no ingredients are provided
 
     try:
-        query_embedding = np.array(client.embeddings.create(
-            model="text-embedding-ada-002",
-            input=", ".join(ingredients)
-        ).data[0].embedding, dtype=np.float32).reshape(1, -1)
+        query_embedding = model.encode([ingredients], convert_to_numpy=True)
 
         _, indices = index.search(query_embedding, 2)  # Get top 2 matches
         return [recipes[i] for i in indices[0] if i < len(recipes)]
