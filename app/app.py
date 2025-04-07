@@ -7,7 +7,7 @@ import numpy as np
 import json
 import os
 import uuid
-from database import init_db, save_memory, get_past_messages
+from utils.database import init_db, save_memory, get_past_messages
 
 # Load environment variables
 load_dotenv()
